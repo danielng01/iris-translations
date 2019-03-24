@@ -1289,7 +1289,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation>娱乐</translation>
+        <translation>游戏</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
