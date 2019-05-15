@@ -161,12 +161,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="598"/>
         <source>Hidden feature succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>Магическото заклинание е изпълнено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="601"/>
         <source>succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>е успешно изпълено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="611"/>
@@ -605,17 +605,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1283"/>
         <source>Iris is switching to </source>
-        <translation type="unfinished"></translation>
+        <translation>Iris се превключва към</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1284"/>
         <source>type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1285"/>
         <source>You will see the difference in your screen after a moment :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ще видите разликата в екрана след малко :)</translation>
     </message>
 </context>
 <context>
@@ -698,13 +698,14 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../iris-licensing/License.cpp" line="173"/>
         <source>Iris is Pro</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris е Pro</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="174"/>
         <source>Iris was already activated
 Thank you for supporting our work :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris е вече активиран
+Благодарим ви, че подкрепихте проекта ни :)</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="226"/>
@@ -846,22 +847,22 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/MainWindow.cpp" line="1026"/>
         <location filename="../../src/MainWindow.cpp" line="1251"/>
         <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
-        <translation type="unfinished"></translation>
+        <translation>КЛИКНЕТЕ ЗА ДА КОПИРАТЕ ТЕКСТЪТ В CLIPBOARD-а</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1029"/>
         <source>Detected current Clock time</source>
-        <translation type="unfinished"></translation>
+        <translation>Засечено сегашно време</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1031"/>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation>Локално време</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1033"/>
         <source>UTC time</source>
-        <translation type="unfinished"></translation>
+        <translation>UTC време</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1072"/>
@@ -1033,32 +1034,32 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1242"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Географска ширина</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1244"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Географска дължина</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1246"/>
         <source>Use Automatic Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ползвай Автоматична Локация</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1248"/>
         <source>Use Manual Night Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ползвай Ръчна дължина на Нощта</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1261"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1265"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Не</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1788"/>
@@ -1286,7 +1287,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="487"/>
         <source>Big rest incoming</source>
-        <translation type="unfinished"></translation>
+        <translation>Голямата почивка наближава</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="502"/>
@@ -1498,12 +1499,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="433"/>
         <source>ADVANCED_SETTINGS_TAB</source>
-        <translation type="unfinished"></translation>
+        <translation>Още Настройки</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="434"/>
         <source>SIMPLE_SETTINGS_TAB</source>
-        <translation type="unfinished"></translation>
+        <translation>Режими</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="437"/>
