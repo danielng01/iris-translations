@@ -1,1 +1,1 @@
-E:\Dev\Qt5.4.2\5.4\msvc2013\bin\lupdate.exe -verbose ../../Iris.pro
+F:\Dev\Qt\Qt5.5.1\5.5\msvc2013\bin\lupdate.exe -verbose ../../Iris.pro
