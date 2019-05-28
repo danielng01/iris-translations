@@ -69,12 +69,12 @@
     </message>
     <message>
         <source>Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="vanished">Iris只是删除了一些显卡限制。您需要重启电脑才能解锁全部功能。</translation>
+        <translation type="vanished">Iris 只是删除了一些显卡限制。您需要重启电脑才能解锁全部功能。</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation>Iris进行了一些小改动以实现更低的值。 您需要重新启动PC才能解锁全部功能</translation>
+        <translation>Iris 进行了一些小改动以实现更低的值。您需要重新启动电脑才能解锁全部功能。</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -84,12 +84,16 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="274"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation>重启以解锁全色彩范围。Iris mini可以正常工作，但部分选项可能被禁用。</translation>
+        <translation>重启以解锁全色彩范围。Iris mini 可以正常工作，但部分选项可能被禁用。</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="284"/>
         <source>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
         <translation>您现在使用的是高级色彩API，重启电脑以解锁被禁用的功能。</translation>
+    </message>
+    <message>
+        <source>Some functionallity is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
+        <translation type="obsolete">某些功能受限，因为您需要重新启动PC。您正在使用高级色彩API。</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="337"/>
@@ -101,7 +105,7 @@
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
         <translation>Iris在您的系统上进行了一些更改，需要重新启动才能解锁全部功能。
-请注意，Iris现在可以正常工作，但颜色变化有限。</translation>
+请注意，Iris 现在可以正常工作，但颜色变化有限。</translation>
     </message>
 </context>
 <context>
@@ -129,7 +133,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation>Iris Settings File (*.iris_settings *.iris)</translation>
+        <translation>Iris 设置文件 (*.iris_settings *.iris)</translation>
     </message>
 </context>
 <context>
@@ -157,12 +161,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="598"/>
         <source>Hidden feature succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏功能成功</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="601"/>
         <source>succeeded</source>
-        <translation type="unfinished"></translation>
+        <translation>成功</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="611"/>
@@ -310,7 +314,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>Iris mini将再次使用您选择的亮度模式
+        <translation>Iris mini 将再次使用您选择的亮度模式
 </translation>
     </message>
     <message>
@@ -460,65 +464,6 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <translation>Iris mini将根据位置使用自动夜间。 该位置用于计算太阳位置和昼夜持续时间</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1132"/>
-        <source>Keyboard Hook enabled</source>
-        <translation>键盘挂钩已启用</translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1133"/>
-        <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>键盘挂钩已启用。 您现在可以使用系统范围的快捷方式。</translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1138"/>
-        <source>Keyboard Hook disabled</source>
-        <translation>键盘挂钩已禁用</translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1139"/>
-        <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation>键盘挂钩已禁用。 某些快捷方式和功能可能无法按预期工作</translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1151"/>
-        <source>Trial Notification enabled</source>
-        <translation>试用通知已启用</translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1152"/>
-        <source>Iris will remind you when your trial expires</source>
-        <translation>当您的试用时间结束时，Iris会提醒您</translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1157"/>
-        <source>Trial Notification disabled</source>
-        <translation>试用通知已禁止</translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1158"/>
-        <source>Iris will no logner remind you when your trial expires</source>
-        <translation>当您的试用时间结束时，Iris将不会提醒您</translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1283"/>
-        <source>Iris is switching to </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1284"/>
-        <source>type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1285"/>
-        <source>You will see the difference in your screen after a moment :)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="vanished">Iris mini将启用根据定位自动设置夜长时间的功能。定位功能是用来计算昼长、夜长时间以及太阳位置的</translation>
-    </message>
-    <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1008"/>
         <source>Invalid Night start time</source>
         <translation>无效的夜间开始时间</translation>
@@ -618,6 +563,61 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
         <translation>冲突的应用程序被禁用。 为了不引起闪烁，应用程序被禁用。</translation>
     </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1132"/>
+        <source>Keyboard Hook enabled</source>
+        <translation>键盘挂钩已启用</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1133"/>
+        <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
+        <translation>键盘挂钩已启用。您现在可以使用系统范围的快捷方式。</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1138"/>
+        <source>Keyboard Hook disabled</source>
+        <translation>键盘挂钩已禁用</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1139"/>
+        <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
+        <translation>键盘挂钩已禁用。某些快捷方式和功能可能无法按预期工作</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1151"/>
+        <source>Trial Notification enabled</source>
+        <translation>试用通知已启用</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1152"/>
+        <source>Iris will remind you when your trial expires</source>
+        <translation>当您的试用时间结束时，Iris会提醒您</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1157"/>
+        <source>Trial Notification disabled</source>
+        <translation>试用通知已禁止</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1158"/>
+        <source>Iris will no logner remind you when your trial expires</source>
+        <translation>当您的试用时间结束时，Iris将不会提醒您</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1283"/>
+        <source>Iris is switching to </source>
+        <translation>Iris正在转向</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1284"/>
+        <source>type</source>
+        <translation>类型</translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1285"/>
+        <source>You will see the difference in your screen after a moment :)</source>
+        <translation>片刻后你会看到屏幕上的差异:)</translation>
+    </message>
 </context>
 <context>
     <name>ImportSettings</name>
@@ -654,13 +654,14 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../iris-licensing/License.cpp" line="173"/>
         <source>Iris is Pro</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris 是 Pro</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="174"/>
         <source>Iris was already activated
 Thank you for supporting our work :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris 已经被激活了
+感谢您支持我们的工作:)</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="183"/>
@@ -670,7 +671,7 @@ Thank you for supporting our work :)</source>
     <message>
         <location filename="../iris-licensing/License.cpp" line="184"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation>あなたのIris Proライセンスの有効期限が切れています。 あなたは新しいアクティベーションコードを購入することができます</translation>
+        <translation>您的 Iris Pro 许可证已过期。您可以从中购买新的激活码</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="196"/>
@@ -690,7 +691,7 @@ Thank you for supporting our work :)</source>
     <message>
         <location filename="../iris-licensing/License.cpp" line="207"/>
         <source>You have already used this code with other version of Iris. Download and use the old version again or buy new activation code.</source>
-        <translation>您已经使用此代码于其他版本的Iris。 再次下载旧版本或购买新的激活码。</translation>
+        <translation>您已经使用此代码于其他版本的Iris。再次下载旧版本或购买新的激活码。</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="216"/>
@@ -729,7 +730,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../iris-licensing/License.cpp" line="250"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>团队许可激活。 非常感谢您支持Iris！ :)
+        <translation>团队许可激活。非常感谢您支持Iris！ :)
 在高级视图中查看您的新选项。</translation>
     </message>
     <message>
@@ -741,7 +742,7 @@ See your new options in the advanced view.</source>
         <location filename="../iris-licensing/License.cpp" line="263"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>这是Iris，剩下的团队许可证是Iris mini。 Iris mini下载地址：
+        <translation>这是Iris，剩下的团队许可证是Iris mini。Iris mini下载地址：
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -762,18 +763,18 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../iris-licensing/License.cpp" line="283"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation>Iris或Iris mini没有此类团队许可。</translation>
+        <translation>Iris 或 Iris mini 没有此类团队许可。</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="292"/>
         <source>Iris offline activation</source>
-        <translation>离线激活Iris</translation>
+        <translation>离线激活 Iris</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="294"/>
         <location filename="../iris-licensing/License.cpp" line="296"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>你的Iris现在是Pro。 在高级视图中查看新选项。</translation>
+        <translation>你的 Iris 现在是 Pro。在高级视图中查看新选项。</translation>
     </message>
     <message>
         <location filename="../iris-licensing/License.cpp" line="308"/>
@@ -783,7 +784,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../iris-licensing/License.cpp" line="311"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation>。请检查网络，确保电脑连接到互联网 ?</translation>
+        <translation>请检查网络，确保电脑连接到互联网？</translation>
     </message>
 </context>
 <context>
@@ -807,7 +808,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation>公式推</translation>
+        <translation>形式</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -844,22 +845,22 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="1026"/>
         <location filename="../../src/MainWindow.cpp" line="1251"/>
         <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
-        <translation type="unfinished"></translation>
+        <translation>单击将文本复制到剪贴板</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1029"/>
         <source>Detected current Clock time</source>
-        <translation type="unfinished"></translation>
+        <translation>检测到当前时钟时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1031"/>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation>当地时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1033"/>
         <source>UTC time</source>
-        <translation type="unfinished"></translation>
+        <translation>世界标准时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1072"/>
@@ -1031,52 +1032,52 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1242"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>纬度</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1244"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>经度</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1246"/>
         <source>Use Automatic Location</source>
-        <translation type="unfinished"></translation>
+        <translation>使用自动位置</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1248"/>
         <source>Use Manual Night Duration</source>
-        <translation type="unfinished"></translation>
+        <translation>手动设定夜间时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1261"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1265"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>不</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1788"/>
         <source>Iris Pro needed</source>
-        <translation>Iris Pro功能</translation>
+        <translation>Iris Pro 功能</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1789"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation>您需要升级到Iris Pro才能访问此部分。</translation>
+        <translation>您需要升级到 Iris Pro 才能访问此部分。</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2390"/>
         <source>Relaunch Iris</source>
-        <translation>重新启动Iris</translation>
+        <translation>重新启动 Iris</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2391"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation>您需要重新启动Iris才能使更改生效。</translation>
+        <translation>您需要重新启动 Iris 才能使更改生效。</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2393"/>
@@ -1112,7 +1113,7 @@ http://iristech.co/iris-mini</translation>
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
         <translation>警告！
 
-OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 仅在性能不重要时才使用它！</translation>
+OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。仅在性能不重要时才使用它！</translation>
     </message>
 </context>
 <context>
@@ -1276,22 +1277,22 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="463"/>
         <source>until</source>
-        <translation type="unfinished">直到</translation>
+        <translation>直到</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="475"/>
         <source>rest</source>
-        <translation type="unfinished">休息</translation>
+        <translation>休息</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="487"/>
         <source>Big rest incoming</source>
-        <translation type="unfinished"></translation>
+        <translation>大休息来了</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="502"/>
         <source>work</source>
-        <translation type="unfinished">工作</translation>
+        <translation>工作</translation>
     </message>
 </context>
 <context>
@@ -1498,12 +1499,12 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="433"/>
         <source>ADVANCED_SETTINGS_TAB</source>
-        <translation type="unfinished"></translation>
+        <translation>高级设置标签</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="434"/>
         <source>SIMPLE_SETTINGS_TAB</source>
-        <translation type="unfinished"></translation>
+        <translation>简单设置标签</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="437"/>
@@ -2106,7 +2107,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="584"/>
         <source>USE_KEYBOARD_INACTIVITY</source>
-        <translation type="unfinished"></translation>
+        <translation>使用键盘静止来暂停工作定时器</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="585"/>
@@ -2121,7 +2122,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="588"/>
         <source>ADVANCED_IRIS</source>
-        <translation>高级Iris</translation>
+        <translation>高级 Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="589"/>
@@ -2136,7 +2137,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="591"/>
         <source>DESTROY_UI_ON_CLOSE</source>
-        <translation>关闭Iris UI</translation>
+        <translation>关闭 Iris 用户界面</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="592"/>
@@ -2367,7 +2368,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>DUTCH</source>
-        <translation>荷兰人</translation>
+        <translation>荷兰语</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
@@ -2658,17 +2659,17 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="685"/>
         <source>ADVANCED_IRIS_MODEL</source>
-        <translation>高级Iris模式</translation>
+        <translation>高级 Iris 模式</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>SWITCH_TO_IRIS</source>
-        <translation>切换到Iris</translation>
+        <translation>切换到 Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
         <source>SWITCH_TO_IRIS_LITE</source>
-        <translation>切换到Iris Lite</translation>
+        <translation>切换到 Iris Lite</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="689"/>
@@ -2678,7 +2679,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>GET_IRIS_PRO</source>
-        <translation>获取Iris Pro</translation>
+        <translation>获取 Iris Pro</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="693"/>
@@ -2708,27 +2709,27 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="698"/>
         <source>CHINESE</source>
-        <translation>中文</translation>
+        <translation>汉语</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="699"/>
         <source>INDIAN</source>
-        <translation>印度语</translation>
+        <translation>印地语</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="700"/>
         <source>JAPANESE</source>
-        <translation>日本</translation>
+        <translation>日语</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="701"/>
         <source>ARABIC</source>
-        <translation>阿拉伯</translation>
+        <translation>阿拉伯语</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="702"/>
         <source>TURKISH</source>
-        <translation>土耳其</translation>
+        <translation>土耳其语</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="703"/>
@@ -2890,12 +2891,6 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <translation>覆盖</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="214"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="682"/>
-        <source>Exit</source>
-        <translation>退出</translation>
-    </message>
-    <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="216"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="684"/>
         <source>Quit</source>
@@ -2924,6 +2919,44 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="679"/>
         <source>Mouse pausers</source>
         <translation>鼠标暂停</translation>
+    </message>
+    <message>
+        <source>Pause PCEyeGuard</source>
+        <translation type="vanished">暂停PC眼防护</translation>
+    </message>
+    <message>
+        <source>Pause %1</source>
+        <translation type="vanished">暂停 %1</translation>
+    </message>
+    <message>
+        <source>Pause color changes</source>
+        <translation type="vanished">暂停颜色变化</translation>
+    </message>
+    <message>
+        <source>Stop work timer</source>
+        <translation type="vanished">停止工作计时器</translation>
+    </message>
+    <message>
+        <source>Use camera</source>
+        <translation type="vanished">使用相机</translation>
+    </message>
+    <message>
+        <source>Activate Code</source>
+        <translation type="vanished">激活码</translation>
+    </message>
+    <message>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="214"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="682"/>
+        <source>Exit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <source>&amp;Activate Code</source>
+        <translation type="vanished">&amp;激活码</translation>
+    </message>
+    <message>
+        <source>&amp;Exit</source>
+        <translation type="vanished">&amp;退出</translation>
     </message>
 </context>
 <context>
@@ -2976,7 +3009,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../iris-licensing/Trial.cpp" line="201"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation>您的Iris Pro试用版已过期</translation>
+        <translation>您的 Iris Pro 试用版已过期。</translation>
     </message>
     <message>
         <location filename="../iris-licensing/Trial.cpp" line="203"/>
@@ -2987,6 +3020,10 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../iris-licensing/Trial.cpp" line="205"/>
         <source>Invite Friends or Buy lifelong license</source>
         <translation>邀请朋友或购买终身许可</translation>
+    </message>
+    <message>
+        <source>Invite Friends or Buy lifelong license for $15</source>
+        <translation type="vanished">邀请朋友或以15美元购买终身许可证</translation>
     </message>
     <message>
         <location filename="../iris-licensing/Trial.cpp" line="212"/>
@@ -3048,12 +3085,12 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../iris-licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation>Iris Pro试用版将于明天到期</translation>
+        <translation>Iris Pro 试用版将于明天到期</translation>
     </message>
     <message>
         <location filename="../iris-licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation>Iris Pro试用版到期</translation>
+        <translation>Iris Pro 试用版到期</translation>
     </message>
     <message>
         <location filename="../iris-licensing/ViralComponent.cpp" line="49"/>
@@ -3112,7 +3149,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
@@ -3126,7 +3163,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
@@ -3135,7 +3172,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation>警告!</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
