@@ -6,284 +6,284 @@
     <message>
         <location filename="../../src/App.cpp" line="775"/>
         <source>Expired</source>
-        <translation type="unfinished">Expired</translation>
+        <translation>Expired</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="779"/>
         <source>Paused</source>
-        <translation type="unfinished">Paused</translation>
+        <translation>Paused</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1019"/>
         <location filename="../../src/App.cpp" line="1244"/>
         <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1022"/>
         <source>Detected current Clock time</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1024"/>
         <source>Local time</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1026"/>
         <source>UTC time</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1065"/>
         <location filename="../../src/App.cpp" line="1175"/>
         <source>Day start time</source>
-        <translation type="unfinished">Day start time</translation>
+        <translation>Day start time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1067"/>
         <location filename="../../src/App.cpp" line="1177"/>
         <source>Day transition start time</source>
-        <translation type="unfinished">Day transition start time</translation>
+        <translation>Day transition start time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1069"/>
         <location filename="../../src/App.cpp" line="1179"/>
         <source>Day transition end time</source>
-        <translation type="unfinished">Day transition end time</translation>
+        <translation>Day transition end time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1071"/>
         <location filename="../../src/App.cpp" line="1181"/>
         <source>Day end time</source>
-        <translation type="unfinished">Day end time</translation>
+        <translation>Day end time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1076"/>
         <location filename="../../src/App.cpp" line="1186"/>
         <source>Night start time</source>
-        <translation type="unfinished">Night start time</translation>
+        <translation>Night start time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1078"/>
         <location filename="../../src/App.cpp" line="1188"/>
         <source>Night transition start time</source>
-        <translation type="unfinished">Night transition start time</translation>
+        <translation>Night transition start time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1080"/>
         <location filename="../../src/App.cpp" line="1190"/>
         <source>Night transition end time</source>
-        <translation type="unfinished">Night transition end time</translation>
+        <translation>Night transition end time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1082"/>
         <location filename="../../src/App.cpp" line="1192"/>
         <source>Night end time</source>
-        <translation type="unfinished">Night end time</translation>
+        <translation>Night end time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1087"/>
         <location filename="../../src/App.cpp" line="1197"/>
         <source>Bedtime</source>
-        <translation type="unfinished">Bedtime</translation>
+        <translation>Bedtime</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1089"/>
         <location filename="../../src/App.cpp" line="1199"/>
         <source>Bedtime transition start time</source>
-        <translation type="unfinished">Bedtime transition start time</translation>
+        <translation>Bedtime transition start time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1091"/>
         <location filename="../../src/App.cpp" line="1201"/>
         <source>Bedtime transition end time</source>
-        <translation type="unfinished">Bedtime transition end time</translation>
+        <translation>Bedtime transition end time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1093"/>
         <location filename="../../src/App.cpp" line="1203"/>
         <source>Bedtime end time</source>
-        <translation type="unfinished">Bedtime end time</translation>
+        <translation>Bedtime end time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1098"/>
         <location filename="../../src/App.cpp" line="1208"/>
         <source>Wake time</source>
-        <translation type="unfinished">Wake time</translation>
+        <translation>Wake time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1100"/>
         <location filename="../../src/App.cpp" line="1210"/>
         <source>Wake time transition start time</source>
-        <translation type="unfinished">Wake time transition start time</translation>
+        <translation>Wake time transition start time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1102"/>
         <location filename="../../src/App.cpp" line="1212"/>
         <source>Wake time transition end time</source>
-        <translation type="unfinished">Wake time transition end time</translation>
+        <translation>Wake time transition end time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1104"/>
         <location filename="../../src/App.cpp" line="1214"/>
         <source>Wake time end time</source>
-        <translation type="unfinished">Wake time end time</translation>
+        <translation>Wake time end time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1109"/>
         <location filename="../../src/App.cpp" line="1219"/>
         <source>Day duration</source>
-        <translation type="unfinished">Day duration</translation>
+        <translation>Day duration</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1111"/>
         <location filename="../../src/App.cpp" line="1221"/>
         <source>Day transition duration</source>
-        <translation type="unfinished">Day transition duration</translation>
+        <translation>Day transition duration</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1113"/>
         <location filename="../../src/App.cpp" line="1223"/>
         <source>Night duration</source>
-        <translation type="unfinished">Night duration</translation>
+        <translation>Night duration</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1115"/>
         <location filename="../../src/App.cpp" line="1225"/>
         <source>Night transition duration</source>
-        <translation type="unfinished">Night transition duration</translation>
+        <translation>Night transition duration</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1117"/>
         <location filename="../../src/App.cpp" line="1227"/>
         <source>Sleep duration</source>
-        <translation type="unfinished">Sleep duration</translation>
+        <translation>Sleep duration</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1119"/>
         <location filename="../../src/App.cpp" line="1229"/>
         <source>Sleep transition duration</source>
-        <translation type="unfinished">Sleep transition duration</translation>
+        <translation>Sleep transition duration</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1125"/>
         <source>Time zone</source>
-        <translation type="unfinished">Time zone</translation>
+        <translation>Time zone</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1127"/>
         <source>Custom Time zone offset</source>
-        <translation type="unfinished">Custom Time zone offset</translation>
+        <translation>Custom Time zone offset</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1132"/>
         <source>Sunrise time</source>
-        <translation type="unfinished">Sunrise time</translation>
+        <translation>Sunrise time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1134"/>
         <source>Sunset time</source>
-        <translation type="unfinished">Sunset time</translation>
+        <translation>Sunset time</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1139"/>
         <source>New moon offset</source>
-        <translation type="unfinished">New moon offset</translation>
+        <translation>New moon offset</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1141"/>
         <source>Full moon offset</source>
-        <translation type="unfinished">Full moon offset</translation>
+        <translation>Full moon offset</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1143"/>
         <source>Current moon offset</source>
-        <translation type="unfinished">Current moon offset</translation>
+        <translation>Current moon offset</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1235"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1237"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1239"/>
         <source>Use Automatic Location</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1241"/>
         <source>Use Manual Night Duration</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1254"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1258"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1785"/>
         <source>Iris Pro needed</source>
-        <translation type="unfinished">Iris Pro needed</translation>
+        <translation>Iris Pro needed</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1786"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation type="unfinished">You need Iris Pro to access this section.</translation>
+        <translation>You need Iris Pro to access this section.</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2387"/>
         <source>Relaunch Iris</source>
-        <translation type="unfinished">Relaunch Iris</translation>
+        <translation>Relaunch Iris</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2388"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation type="unfinished">You need to relaunch Iris for changes to take effect.</translation>
+        <translation>You need to relaunch Iris for changes to take effect.</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2390"/>
         <source>Relaunch now</source>
-        <translation type="unfinished">Relaunch now</translation>
+        <translation>Relaunch now</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2391"/>
         <source>Later</source>
-        <translation type="unfinished">Later</translation>
+        <translation>Later</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2407"/>
         <location filename="../../src/App.cpp" line="2472"/>
         <source>Restart is needed</source>
-        <translation type="unfinished">Restart is needed</translation>
+        <translation>Restart is needed</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2408"/>
         <location filename="../../src/App.cpp" line="2472"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation type="unfinished">Iris made some changes on your system and restart is needed for changes to take effect.</translation>
+        <translation>Iris made some changes on your system and restart is needed for changes to take effect.</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="4005"/>
         <source>WARNING!!!</source>
-        <translation type="unfinished">WARNING!!!</translation>
+        <translation>WARNING!!!</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="4006"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished">WARNING!!!
+        <translation>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</translation>
     </message>
@@ -428,17 +428,17 @@ Note that Iris will work fine now, but with limited color changes.</translation>
     <message>
         <location filename="../iris-licensing/FreeTrialApp.cpp" line="198"/>
         <source>Activate </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/FreeTrialApp.cpp" line="198"/>
         <source>Activation code:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/FreeTrialApp.cpp" line="242"/>
         <source>You need </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -446,12 +446,12 @@ Note that Iris will work fine now, but with limited color changes.</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="527"/>
         <source>Color range is already expanded</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="541"/>
         <source>Expand color range Failed</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="619"/>
@@ -1070,115 +1070,115 @@ http://iristech.co/iris-mini</translation>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="296"/>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="298"/>
         <source>Your </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="160"/>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="162"/>
         <source>Thank you very much for supporting </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="185"/>
         <source>License Expired</source>
-        <translation type="unfinished">License Expired</translation>
+        <translation>License Expired</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="198"/>
         <source>Already used</source>
-        <translation type="unfinished">Already used</translation>
+        <translation>Already used</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="199"/>
         <source>You have already used this code on another machine</source>
-        <translation type="unfinished">You have already used this code on another machine</translation>
+        <translation>You have already used this code on another machine</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="208"/>
         <source>Other version</source>
-        <translation type="unfinished">Other version</translation>
+        <translation>Other version</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="209"/>
         <source>You have already used this code with other version of </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="218"/>
         <source>No such code</source>
-        <translation type="unfinished">No such code</translation>
+        <translation>No such code</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="219"/>
         <source>There is no such activation code</source>
-        <translation type="unfinished">There is no such activation code</translation>
+        <translation>There is no such activation code</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="228"/>
         <source>No giveaway</source>
-        <translation type="unfinished">No giveaway</translation>
+        <translation>No giveaway</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="229"/>
         <source>There is no active giveaway right now</source>
-        <translation type="unfinished">There is no active giveaway right now</translation>
+        <translation>There is no active giveaway right now</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="238"/>
         <source>This code is for Iris mini</source>
-        <translation type="unfinished">This code is for Iris mini</translation>
+        <translation>This code is for Iris mini</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="239"/>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="265"/>
         <source>This is </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="250"/>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="252"/>
         <source>Team license activation. Thank you very much for supporting </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="264"/>
         <source>Team license code for </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="274"/>
         <source>No more Team activations</source>
-        <translation type="unfinished">No more Team activations</translation>
+        <translation>No more Team activations</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="275"/>
         <source>You have used all your Team license activations.</source>
-        <translation type="unfinished">You have used all your Team license activations.</translation>
+        <translation>You have used all your Team license activations.</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="284"/>
         <source>No such Team license</source>
-        <translation type="unfinished">No such Team license</translation>
+        <translation>No such Team license</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="285"/>
         <source>There is no such Team license.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="294"/>
         <source>Iris offline activation</source>
-        <translation type="unfinished">Iris offline activation</translation>
+        <translation>Iris offline activation</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="310"/>
         <source>Invalid response</source>
-        <translation type="unfinished">Invalid response</translation>
+        <translation>Invalid response</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="313"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation type="unfinished">. Maybe you are not connected to the internet?</translation>
+        <translation>. Maybe you are not connected to the internet?</translation>
     </message>
 </context>
 <context>
@@ -3319,83 +3319,93 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>TrialChecker</name>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="154"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="54"/>
+        <source>Invite Friends or Buy lifelong license</source>
+        <translation type="unfinished">Invite Friends or Buy lifelong license</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="158"/>
         <source>Expires in</source>
-        <translation type="unfinished">Expires in</translation>
+        <translation>Expires in</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="162"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="316"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="166"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="322"/>
         <source>days</source>
-        <translation type="unfinished">days</translation>
+        <translation>days</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="167"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="171"/>
         <source>day</source>
-        <translation type="unfinished">day</translation>
+        <translation>day</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="173"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="177"/>
         <source>hours</source>
-        <translation type="unfinished">hours</translation>
+        <translation>hours</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="178"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="182"/>
         <source>hour</source>
-        <translation type="unfinished">hour</translation>
+        <translation>hour</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="184"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="188"/>
         <source>minutes</source>
-        <translation type="unfinished">minutes</translation>
-    </message>
-    <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="189"/>
-        <source>minute</source>
-        <translation type="unfinished">minute</translation>
+        <translation>minutes</translation>
     </message>
     <message>
         <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
+        <source>minute</source>
+        <translation>minute</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="197"/>
         <source>Expired</source>
-        <translation type="unfinished">Expired</translation>
+        <translation>Expired</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="213"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="217"/>
         <source>Trial Expired</source>
-        <translation type="unfinished">Trial Expired</translation>
+        <translation>Trial Expired</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="214"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="218"/>
         <source>Your </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="216"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="298"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="307"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="318"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="220"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="302"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="311"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="324"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished">If you like the program and want to use it more you can</translation>
-    </message>
-    <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="225"/>
-        <source>Already used</source>
-        <translation type="unfinished">Already used</translation>
+        <translation>If you like the program and want to use it more you can</translation>
     </message>
     <message>
         <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
+        <source>Already used</source>
+        <translation>Already used</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="233"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished">It seems you have already used your free trial on this machine.</translation>
+        <translation>It seems you have already used your free trial on this machine.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="239"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="243"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished">Free trial Disabled</translation>
+        <translation>Free trial Disabled</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="293"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="297"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished">Trial expires soon</translation>
+        <translation>Trial expires soon</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="320"/>
+        <source>Trial expires in</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3404,7 +3414,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/utils/Utils.cpp" line="93"/>
         <location filename="../../src/utils/Utils.cpp" line="141"/>
         <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>

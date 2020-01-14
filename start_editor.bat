@@ -1,1 +1,1 @@
-start F:\Dev\Qt\Qt5.5.1\5.5\msvc2013\bin\linguist.exe
+start D:\Dev\Qt\Qt5.5.1\5.5\msvc2013\bin\linguist.exe

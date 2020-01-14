@@ -6,284 +6,284 @@
     <message>
         <location filename="../../src/App.cpp" line="775"/>
         <source>Expired</source>
-        <translation type="unfinished">Изтекъл</translation>
+        <translation>Изтекъл</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="779"/>
         <source>Paused</source>
-        <translation type="unfinished">Спрян</translation>
+        <translation>Спрян</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1019"/>
         <location filename="../../src/App.cpp" line="1244"/>
         <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
-        <translation type="unfinished">КЛИКНЕТЕ ЗА ДА КОПИРАТЕ ТЕКСТЪТ В CLIPBOARD-а</translation>
+        <translation>КЛИКНЕТЕ ЗА ДА КОПИРАТЕ ТЕКСТЪТ В CLIPBOARD-а</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1022"/>
         <source>Detected current Clock time</source>
-        <translation type="unfinished">Засечено сегашно време</translation>
+        <translation>Засечено сегашно време</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1024"/>
         <source>Local time</source>
-        <translation type="unfinished">Локално време</translation>
+        <translation>Локално време</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1026"/>
         <source>UTC time</source>
-        <translation type="unfinished">UTC време</translation>
+        <translation>UTC време</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1065"/>
         <location filename="../../src/App.cpp" line="1175"/>
         <source>Day start time</source>
-        <translation type="unfinished">Начало на деня</translation>
+        <translation>Начало на деня</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1067"/>
         <location filename="../../src/App.cpp" line="1177"/>
         <source>Day transition start time</source>
-        <translation type="unfinished">Начало на дневната промяна</translation>
+        <translation>Начало на дневната промяна</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1069"/>
         <location filename="../../src/App.cpp" line="1179"/>
         <source>Day transition end time</source>
-        <translation type="unfinished">Край на дневната промяна</translation>
+        <translation>Край на дневната промяна</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1071"/>
         <location filename="../../src/App.cpp" line="1181"/>
         <source>Day end time</source>
-        <translation type="unfinished">Край на деня</translation>
+        <translation>Край на деня</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1076"/>
         <location filename="../../src/App.cpp" line="1186"/>
         <source>Night start time</source>
-        <translation type="unfinished">Начало на нощта</translation>
+        <translation>Начало на нощта</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1078"/>
         <location filename="../../src/App.cpp" line="1188"/>
         <source>Night transition start time</source>
-        <translation type="unfinished">Начало на нощната промяна</translation>
+        <translation>Начало на нощната промяна</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1080"/>
         <location filename="../../src/App.cpp" line="1190"/>
         <source>Night transition end time</source>
-        <translation type="unfinished">Край на нощната промяна</translation>
+        <translation>Край на нощната промяна</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1082"/>
         <location filename="../../src/App.cpp" line="1192"/>
         <source>Night end time</source>
-        <translation type="unfinished">Край на нощта</translation>
+        <translation>Край на нощта</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1087"/>
         <location filename="../../src/App.cpp" line="1197"/>
         <source>Bedtime</source>
-        <translation type="unfinished">Време за сън</translation>
+        <translation>Време за сън</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1089"/>
         <location filename="../../src/App.cpp" line="1199"/>
         <source>Bedtime transition start time</source>
-        <translation type="unfinished">Начало на промяната на времето за сън</translation>
+        <translation>Начало на промяната на времето за сън</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1091"/>
         <location filename="../../src/App.cpp" line="1201"/>
         <source>Bedtime transition end time</source>
-        <translation type="unfinished">Край на промяната на времето за сън</translation>
+        <translation>Край на промяната на времето за сън</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1093"/>
         <location filename="../../src/App.cpp" line="1203"/>
         <source>Bedtime end time</source>
-        <translation type="unfinished">Край на времето за сън</translation>
+        <translation>Край на времето за сън</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1098"/>
         <location filename="../../src/App.cpp" line="1208"/>
         <source>Wake time</source>
-        <translation type="unfinished">Време за събуждане</translation>
+        <translation>Време за събуждане</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1100"/>
         <location filename="../../src/App.cpp" line="1210"/>
         <source>Wake time transition start time</source>
-        <translation type="unfinished">Начало на промяната на времето за събуждане</translation>
+        <translation>Начало на промяната на времето за събуждане</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1102"/>
         <location filename="../../src/App.cpp" line="1212"/>
         <source>Wake time transition end time</source>
-        <translation type="unfinished">Край на промяната на времето за събуждане</translation>
+        <translation>Край на промяната на времето за събуждане</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1104"/>
         <location filename="../../src/App.cpp" line="1214"/>
         <source>Wake time end time</source>
-        <translation type="unfinished">Край на времето за събуждане</translation>
+        <translation>Край на времето за събуждане</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1109"/>
         <location filename="../../src/App.cpp" line="1219"/>
         <source>Day duration</source>
-        <translation type="unfinished">Продължителност на деня</translation>
+        <translation>Продължителност на деня</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1111"/>
         <location filename="../../src/App.cpp" line="1221"/>
         <source>Day transition duration</source>
-        <translation type="unfinished">Продължителност на дневната промяна</translation>
+        <translation>Продължителност на дневната промяна</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1113"/>
         <location filename="../../src/App.cpp" line="1223"/>
         <source>Night duration</source>
-        <translation type="unfinished">Продължителност на нощта</translation>
+        <translation>Продължителност на нощта</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1115"/>
         <location filename="../../src/App.cpp" line="1225"/>
         <source>Night transition duration</source>
-        <translation type="unfinished">Продължителност на нощната промяна</translation>
+        <translation>Продължителност на нощната промяна</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1117"/>
         <location filename="../../src/App.cpp" line="1227"/>
         <source>Sleep duration</source>
-        <translation type="unfinished">Продължителност на съня</translation>
+        <translation>Продължителност на съня</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1119"/>
         <location filename="../../src/App.cpp" line="1229"/>
         <source>Sleep transition duration</source>
-        <translation type="unfinished">Продължителност на сънната промяна</translation>
+        <translation>Продължителност на сънната промяна</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1125"/>
         <source>Time zone</source>
-        <translation type="unfinished">Часова зона</translation>
+        <translation>Часова зона</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1127"/>
         <source>Custom Time zone offset</source>
-        <translation type="unfinished">Отместване на часовата зона</translation>
+        <translation>Отместване на часовата зона</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1132"/>
         <source>Sunrise time</source>
-        <translation type="unfinished">Изгрев</translation>
+        <translation>Изгрев</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1134"/>
         <source>Sunset time</source>
-        <translation type="unfinished">Залез</translation>
+        <translation>Залез</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1139"/>
         <source>New moon offset</source>
-        <translation type="unfinished">Отместване при новолуние</translation>
+        <translation>Отместване при новолуние</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1141"/>
         <source>Full moon offset</source>
-        <translation type="unfinished">Отместване при пълнолуние</translation>
+        <translation>Отместване при пълнолуние</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1143"/>
         <source>Current moon offset</source>
-        <translation type="unfinished">Лунно отместване</translation>
+        <translation>Лунно отместване</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1235"/>
         <source>Latitude</source>
-        <translation type="unfinished">Географска ширина</translation>
+        <translation>Географска ширина</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1237"/>
         <source>Longitude</source>
-        <translation type="unfinished">Географска дължина</translation>
+        <translation>Географска дължина</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1239"/>
         <source>Use Automatic Location</source>
-        <translation type="unfinished">Ползвай Автоматична Локация</translation>
+        <translation>Ползвай Автоматична Локация</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1241"/>
         <source>Use Manual Night Duration</source>
-        <translation type="unfinished">Ползвай Ръчна дължина на Нощта</translation>
+        <translation>Ползвай Ръчна дължина на Нощта</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1254"/>
         <source>Yes</source>
-        <translation type="unfinished">Да</translation>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1258"/>
         <source>No</source>
-        <translation type="unfinished">Не</translation>
+        <translation>Не</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1785"/>
         <source>Iris Pro needed</source>
-        <translation type="unfinished">Нужен е Iris Pro</translation>
+        <translation>Нужен е Iris Pro</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="1786"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation type="unfinished">За тази секция Ви трябва Iris Pro.</translation>
+        <translation>За тази секция Ви трябва Iris Pro.</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2387"/>
         <source>Relaunch Iris</source>
-        <translation type="unfinished">Рестартирайте Iris</translation>
+        <translation>Рестартирайте Iris</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2388"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation type="unfinished">Трябва да рестартирате Iris, за да се отразят промените.</translation>
+        <translation>Трябва да рестартирате Iris, за да се отразят промените.</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2390"/>
         <source>Relaunch now</source>
-        <translation type="unfinished">Рестартирайте сега</translation>
+        <translation>Рестартирайте сега</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2391"/>
         <source>Later</source>
-        <translation type="unfinished">По-късно</translation>
+        <translation>По-късно</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2407"/>
         <location filename="../../src/App.cpp" line="2472"/>
         <source>Restart is needed</source>
-        <translation type="unfinished">Нужен е рестарт</translation>
+        <translation>Нужен е рестарт</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="2408"/>
         <location filename="../../src/App.cpp" line="2472"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation type="unfinished">Iris направи някои промени и е нужен рестарт, за да се отразят промените.</translation>
+        <translation>Iris направи някои промени и е нужен рестарт, за да се отразят промените.</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="4005"/>
         <source>WARNING!!!</source>
-        <translation type="unfinished">ВНИМАНИЕ!!!</translation>
+        <translation>ВНИМАНИЕ!!!</translation>
     </message>
     <message>
         <location filename="../../src/App.cpp" line="4006"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished">Умната инверсия на OSX изисква интензивна употреба на процесора и може да забави компютъра. Използвайте я само ако производителността не е много важна за Вас!</translation>
+        <translation>Умната инверсия на OSX изисква интензивна употреба на процесора и може да забави компютъра. Използвайте я само ако производителността не е много важна за Вас!</translation>
     </message>
 </context>
 <context>
@@ -426,17 +426,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../iris-licensing/FreeTrialApp.cpp" line="198"/>
         <source>Activate </source>
-        <translation type="unfinished"></translation>
+        <translation>Активирай</translation>
     </message>
     <message>
         <location filename="../iris-licensing/FreeTrialApp.cpp" line="198"/>
         <source>Activation code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Активационен код:</translation>
     </message>
     <message>
         <location filename="../iris-licensing/FreeTrialApp.cpp" line="242"/>
         <source>You need </source>
-        <translation type="unfinished"></translation>
+        <translation>Трябва ти</translation>
     </message>
 </context>
 <context>
@@ -444,12 +444,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="527"/>
         <source>Color range is already expanded</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="541"/>
         <source>Expand color range Failed</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="619"/>
@@ -1081,115 +1081,115 @@ http://iristech.co/iris-mini</source>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="296"/>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="298"/>
         <source>Your </source>
-        <translation type="unfinished"></translation>
+        <translation>Вашият </translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="160"/>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="162"/>
         <source>Thank you very much for supporting </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="185"/>
         <source>License Expired</source>
-        <translation type="unfinished">Лицензът е изтекъл</translation>
+        <translation>Лицензът е изтекъл</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="198"/>
         <source>Already used</source>
-        <translation type="unfinished">Вече използван</translation>
+        <translation>Вече използван</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="199"/>
         <source>You have already used this code on another machine</source>
-        <translation type="unfinished">Вече сте използвали този код на друга машина</translation>
+        <translation>Вече сте използвали този код на друга машина</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="208"/>
         <source>Other version</source>
-        <translation type="unfinished">Друга версия</translation>
+        <translation>Друга версия</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="209"/>
         <source>You have already used this code with other version of </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="218"/>
         <source>No such code</source>
-        <translation type="unfinished">Няма такъв код</translation>
+        <translation>Няма такъв код</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="219"/>
         <source>There is no such activation code</source>
-        <translation type="unfinished">Няма такъв активационен код</translation>
+        <translation>Няма такъв активационен код</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="228"/>
         <source>No giveaway</source>
-        <translation type="unfinished">Няма промоция</translation>
+        <translation>Няма промоция</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="229"/>
         <source>There is no active giveaway right now</source>
-        <translation type="unfinished">В момента няма активна промоция</translation>
+        <translation>В момента няма активна промоция</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="238"/>
         <source>This code is for Iris mini</source>
-        <translation type="unfinished">Този код е за Iris mini</translation>
+        <translation>Този код е за Iris mini</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="239"/>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="265"/>
         <source>This is </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="250"/>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="252"/>
         <source>Team license activation. Thank you very much for supporting </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="264"/>
         <source>Team license code for </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="274"/>
         <source>No more Team activations</source>
-        <translation type="unfinished">Няма повече колективни активации</translation>
+        <translation>Няма повече колективни активации</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="275"/>
         <source>You have used all your Team license activations.</source>
-        <translation type="unfinished">Използвали сте всички Ваши колективни активации.</translation>
+        <translation>Използвали сте всички Ваши колективни активации.</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="284"/>
         <source>No such Team license</source>
-        <translation type="unfinished">Няма такъв колективен лиценз</translation>
+        <translation>Няма такъв колективен лиценз</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="285"/>
         <source>There is no such Team license.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="294"/>
         <source>Iris offline activation</source>
-        <translation type="unfinished">Iris офлайн активация</translation>
+        <translation>Iris офлайн активация</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="310"/>
         <source>Invalid response</source>
-        <translation type="unfinished">Невалиден отговор</translation>
+        <translation>Невалиден отговор</translation>
     </message>
     <message>
         <location filename="../iris-licensing/LicenseChecker.cpp" line="313"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation type="unfinished">. Може би не сте свързани към интернет</translation>
+        <translation>. Може би не сте свързани към интернет</translation>
     </message>
 </context>
 <context>
@@ -3364,83 +3364,93 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>TrialChecker</name>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="154"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="54"/>
+        <source>Invite Friends or Buy lifelong license</source>
+        <translation>Поканите приятели или Купите лиценз</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="158"/>
         <source>Expires in</source>
-        <translation type="unfinished">Изтича след</translation>
+        <translation>Изтича след</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="162"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="316"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="166"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="322"/>
         <source>days</source>
-        <translation type="unfinished">дни</translation>
+        <translation>дни</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="167"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="171"/>
         <source>day</source>
-        <translation type="unfinished">ден</translation>
+        <translation>ден</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="173"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="177"/>
         <source>hours</source>
-        <translation type="unfinished">часа</translation>
+        <translation>часа</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="178"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="182"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="184"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="188"/>
         <source>minutes</source>
-        <translation type="unfinished">минути</translation>
-    </message>
-    <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="189"/>
-        <source>minute</source>
-        <translation type="unfinished">минута</translation>
+        <translation>минути</translation>
     </message>
     <message>
         <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
+        <source>minute</source>
+        <translation>минута</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="197"/>
         <source>Expired</source>
-        <translation type="unfinished">Изтекъл</translation>
+        <translation>Изтекъл</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="213"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="217"/>
         <source>Trial Expired</source>
-        <translation type="unfinished">Пробният период е изтекъл</translation>
+        <translation>Пробният период е изтекъл</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="214"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="218"/>
         <source>Your </source>
-        <translation type="unfinished"></translation>
+        <translation>Твоят </translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="216"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="298"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="307"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="318"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="220"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="302"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="311"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="324"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished">Ако харесвате програмата и искате да продължите да я използвате можете да</translation>
-    </message>
-    <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="225"/>
-        <source>Already used</source>
-        <translation type="unfinished">Вече използван</translation>
+        <translation>Ако харесвате програмата и искате да продължите да я използвате можете да</translation>
     </message>
     <message>
         <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
+        <source>Already used</source>
+        <translation>Вече използван</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="233"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished">Вече сте използвали пробният период на тази машина.</translation>
+        <translation>Вече сте използвали пробният период на тази машина.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="239"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="243"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished">Пробният период е Спрян</translation>
+        <translation>Пробният период е Спрян</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="293"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="297"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished">Пробният период изтича скоро</translation>
+        <translation>Пробният период изтича скоро</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="320"/>
+        <source>Trial expires in</source>
+        <translation>Пробният период изтича след</translation>
     </message>
 </context>
 <context>
@@ -3449,7 +3459,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/utils/Utils.cpp" line="93"/>
         <location filename="../../src/utils/Utils.cpp" line="141"/>
         <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
-        <translation type="unfinished">КЛИКНЕТЕ ЗА ДА КОПИРАТЕ ТЕКСТЪТ В CLIPBOARD-а</translation>
+        <translation>КЛИКНЕТЕ ЗА ДА КОПИРАТЕ ТЕКСТЪТ В CLIPBOARD-а</translation>
     </message>
 </context>
 <context>

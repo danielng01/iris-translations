@@ -3325,83 +3325,93 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
 <context>
     <name>TrialChecker</name>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="154"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="54"/>
+        <source>Invite Friends or Buy lifelong license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="158"/>
         <source>Expires in</source>
         <translation type="unfinished">後に期限が切れます</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="162"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="316"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="166"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="322"/>
         <source>days</source>
         <translation type="unfinished">日々</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="167"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="171"/>
         <source>day</source>
         <translation type="unfinished">日</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="173"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="177"/>
         <source>hours</source>
         <translation type="unfinished">時間</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="178"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="182"/>
         <source>hour</source>
         <translation type="unfinished">時間</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="184"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="188"/>
         <source>minutes</source>
         <translation type="unfinished">分</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="189"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
         <source>minute</source>
         <translation type="unfinished">分</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="197"/>
         <source>Expired</source>
         <translation type="unfinished">期限切れ</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="213"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="217"/>
         <source>Trial Expired</source>
         <translation type="unfinished">試用期限切れ</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="214"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="218"/>
         <source>Your </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="216"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="298"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="307"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="318"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="220"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="302"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="311"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="324"/>
         <source>If you like the program and want to use it more you can</source>
         <translation type="unfinished">あなたがプログラムが好きで、それをもっと使いたいなら</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="225"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
         <source>Already used</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="233"/>
         <source>It seems you have already used your free trial on this machine.</source>
         <translation type="unfinished">あなたはすでにこのマシンの試用期間を使いました。</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="239"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="243"/>
         <source>Free trial Disabled</source>
         <translation type="unfinished">無料試用を無効にする</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="293"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="297"/>
         <source>Trial expires soon</source>
         <translation type="unfinished">トライアルが間もなく終了する</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="320"/>
+        <source>Trial expires in</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

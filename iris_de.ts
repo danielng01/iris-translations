@@ -3287,83 +3287,93 @@ Smart Inversion auf OSX ist CPU-intensiv und kann Ihren Computer stark verlangsa
 <context>
     <name>TrialChecker</name>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="154"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="54"/>
+        <source>Invite Friends or Buy lifelong license</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="158"/>
         <source>Expires in</source>
         <translation type="unfinished">Läuft ab nach</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="162"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="316"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="166"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="322"/>
         <source>days</source>
         <translation type="unfinished">Tage</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="167"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="171"/>
         <source>day</source>
         <translation type="unfinished">Tag</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="173"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="177"/>
         <source>hours</source>
         <translation type="unfinished">Stunden</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="178"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="182"/>
         <source>hour</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="184"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="188"/>
         <source>minutes</source>
         <translation type="unfinished">minuten</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="189"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
         <source>minute</source>
         <translation type="unfinished">Minute</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="197"/>
         <source>Expired</source>
         <translation type="unfinished">Abgelaufen</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="213"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="217"/>
         <source>Trial Expired</source>
         <translation type="unfinished">Probezeit abgelaufen</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="214"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="218"/>
         <source>Your </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="216"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="298"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="307"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="318"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="220"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="302"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="311"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="324"/>
         <source>If you like the program and want to use it more you can</source>
         <translation type="unfinished">Wenn dir das Programm gefällt und du es mehr nutzen willst, kannst du es</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="225"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
         <source>Already used</source>
         <translation type="unfinished">Schon benutzt</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="233"/>
         <source>It seems you have already used your free trial on this machine.</source>
         <translation type="unfinished">Sie haben die Testphase dieser Maschine bereits genutzt.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="239"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="243"/>
         <source>Free trial Disabled</source>
         <translation type="unfinished">Kostenlose Testversion deaktiviert</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="293"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="297"/>
         <source>Trial expires soon</source>
         <translation type="unfinished">Die Testversion läuft bald ab</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="320"/>
+        <source>Trial expires in</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

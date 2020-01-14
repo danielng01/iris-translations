@@ -3284,83 +3284,93 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
 <context>
     <name>TrialChecker</name>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="154"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="54"/>
+        <source>Invite Friends or Buy lifelong license</source>
+        <translation type="unfinished">친구 초대 또는 라이센스 구매</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="158"/>
         <source>Expires in</source>
         <translation type="unfinished">만료 후</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="162"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="316"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="166"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="322"/>
         <source>days</source>
         <translation type="unfinished">일</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="167"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="171"/>
         <source>day</source>
         <translation type="unfinished">일</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="173"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="177"/>
         <source>hours</source>
         <translation type="unfinished">시간</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="178"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="182"/>
         <source>hour</source>
         <translation type="unfinished">시간</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="184"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="188"/>
         <source>minutes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="189"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
         <source>minute</source>
         <translation type="unfinished">분</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="197"/>
         <source>Expired</source>
         <translation type="unfinished">만료 된</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="213"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="217"/>
         <source>Trial Expired</source>
         <translation type="unfinished">평가판 만료</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="214"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="218"/>
         <source>Your </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="216"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="298"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="307"/>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="318"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="220"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="302"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="311"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="324"/>
         <source>If you like the program and want to use it more you can</source>
         <translation type="unfinished">프로그램을 좋아하고 더 많이 사용하고 싶다면</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="225"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
         <source>Already used</source>
         <translation type="unfinished">이미 사용됨</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="233"/>
         <source>It seems you have already used your free trial on this machine.</source>
         <translation type="unfinished">이 기계의 시험 사용 기간을 이미 사용했습니다.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="239"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="243"/>
         <source>Free trial Disabled</source>
         <translation type="unfinished">무료 평가판 사용 중지됨</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/TrialChecker.cpp" line="293"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="297"/>
         <source>Trial expires soon</source>
         <translation type="unfinished">재판이 곧 만료됩니다.</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="320"/>
+        <source>Trial expires in</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
