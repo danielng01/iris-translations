@@ -2,6 +2,293 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="it_IT">
 <context>
+    <name>App</name>
+    <message>
+        <location filename="../../src/App.cpp" line="775"/>
+        <source>Expired</source>
+        <translation type="unfinished">Scaduto</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="779"/>
+        <source>Paused</source>
+        <translation type="unfinished">In pausa</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1019"/>
+        <location filename="../../src/App.cpp" line="1244"/>
+        <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1022"/>
+        <source>Detected current Clock time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1024"/>
+        <source>Local time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1026"/>
+        <source>UTC time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1065"/>
+        <location filename="../../src/App.cpp" line="1175"/>
+        <source>Day start time</source>
+        <translation type="unfinished">Giorno di inizio del giorno</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1067"/>
+        <location filename="../../src/App.cpp" line="1177"/>
+        <source>Day transition start time</source>
+        <translation type="unfinished">Ora di inizio della transizione giornaliera</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1069"/>
+        <location filename="../../src/App.cpp" line="1179"/>
+        <source>Day transition end time</source>
+        <translation type="unfinished">Termine di transizione giornaliero</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1071"/>
+        <location filename="../../src/App.cpp" line="1181"/>
+        <source>Day end time</source>
+        <translation type="unfinished">L&apos;ora di fine giornata</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1076"/>
+        <location filename="../../src/App.cpp" line="1186"/>
+        <source>Night start time</source>
+        <translation type="unfinished">Ora di inizio notturno</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1078"/>
+        <location filename="../../src/App.cpp" line="1188"/>
+        <source>Night transition start time</source>
+        <translation type="unfinished">Ora di inizio della transizione notturna</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1080"/>
+        <location filename="../../src/App.cpp" line="1190"/>
+        <source>Night transition end time</source>
+        <translation type="unfinished">Termine di transizione della notte</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1082"/>
+        <location filename="../../src/App.cpp" line="1192"/>
+        <source>Night end time</source>
+        <translation type="unfinished">Tempo di fine notte</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1087"/>
+        <location filename="../../src/App.cpp" line="1197"/>
+        <source>Bedtime</source>
+        <translation type="unfinished">Bedtime</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1089"/>
+        <location filename="../../src/App.cpp" line="1199"/>
+        <source>Bedtime transition start time</source>
+        <translation type="unfinished">Ora di inizio della transizione di base</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1091"/>
+        <location filename="../../src/App.cpp" line="1201"/>
+        <source>Bedtime transition end time</source>
+        <translation type="unfinished">Tempo di fine transizione di base</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1093"/>
+        <location filename="../../src/App.cpp" line="1203"/>
+        <source>Bedtime end time</source>
+        <translation type="unfinished">Orario di fine soggiorno</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1098"/>
+        <location filename="../../src/App.cpp" line="1208"/>
+        <source>Wake time</source>
+        <translation type="unfinished">Tempo di risveglio</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1100"/>
+        <location filename="../../src/App.cpp" line="1210"/>
+        <source>Wake time transition start time</source>
+        <translation type="unfinished">Ora di inizio della transizione del tempo di risveglio</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1102"/>
+        <location filename="../../src/App.cpp" line="1212"/>
+        <source>Wake time transition end time</source>
+        <translation type="unfinished">Termine di transizione del tempo di risveglio</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1104"/>
+        <location filename="../../src/App.cpp" line="1214"/>
+        <source>Wake time end time</source>
+        <translation type="unfinished">Termine di sveglia</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1109"/>
+        <location filename="../../src/App.cpp" line="1219"/>
+        <source>Day duration</source>
+        <translation type="unfinished">Durata giornaliera</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1111"/>
+        <location filename="../../src/App.cpp" line="1221"/>
+        <source>Day transition duration</source>
+        <translation type="unfinished">Durata della transizione giornaliera</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1113"/>
+        <location filename="../../src/App.cpp" line="1223"/>
+        <source>Night duration</source>
+        <translation type="unfinished">Durata notturna</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1115"/>
+        <location filename="../../src/App.cpp" line="1225"/>
+        <source>Night transition duration</source>
+        <translation type="unfinished">Durata della transizione notturna</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1117"/>
+        <location filename="../../src/App.cpp" line="1227"/>
+        <source>Sleep duration</source>
+        <translation type="unfinished">Durata del sonno</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1119"/>
+        <location filename="../../src/App.cpp" line="1229"/>
+        <source>Sleep transition duration</source>
+        <translation type="unfinished">Durata della transizione sonno</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1125"/>
+        <source>Time zone</source>
+        <translation type="unfinished">Fuso orario</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1127"/>
+        <source>Custom Time zone offset</source>
+        <translation type="unfinished">Offset del fuso orario personalizzato</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1132"/>
+        <source>Sunrise time</source>
+        <translation type="unfinished">Tempo di alba</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1134"/>
+        <source>Sunset time</source>
+        <translation type="unfinished">Tempo di tramonto</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1139"/>
+        <source>New moon offset</source>
+        <translation type="unfinished">Nuova luna offset</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1141"/>
+        <source>Full moon offset</source>
+        <translation type="unfinished">Offset di luna piena</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1143"/>
+        <source>Current moon offset</source>
+        <translation type="unfinished">Correzione della luna corrente</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1235"/>
+        <source>Latitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1237"/>
+        <source>Longitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1239"/>
+        <source>Use Automatic Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1241"/>
+        <source>Use Manual Night Duration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1254"/>
+        <source>Yes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1258"/>
+        <source>No</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1785"/>
+        <source>Iris Pro needed</source>
+        <translation type="unfinished">Iris Pro necessaria</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="1786"/>
+        <source>You need Iris Pro to access this section.</source>
+        <translation type="unfinished">È necessario Iris Pro per accedere a questa sezione.</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="2387"/>
+        <source>Relaunch Iris</source>
+        <translation type="unfinished">Rilanciare Iris</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="2388"/>
+        <source>You need to relaunch Iris for changes to take effect.</source>
+        <translation type="unfinished">È necessario rilanciare Iris per le modifiche abbiano effetto.</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="2390"/>
+        <source>Relaunch now</source>
+        <translation type="unfinished">Rilanciare ora</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="2391"/>
+        <source>Later</source>
+        <translation type="unfinished">Dopo</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="2407"/>
+        <location filename="../../src/App.cpp" line="2472"/>
+        <source>Restart is needed</source>
+        <translation type="unfinished">è necessario riavvio</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="2408"/>
+        <location filename="../../src/App.cpp" line="2472"/>
+        <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
+        <translation type="unfinished">Iris ha apportato alcune modifiche nel sistema e riavviare è necessario per rendere effettive le modifiche.</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="4005"/>
+        <source>WARNING!!!</source>
+        <translation type="unfinished">AVVERTIMENTO!!!</translation>
+    </message>
+    <message>
+        <location filename="../../src/App.cpp" line="4006"/>
+        <source>WARNING!!!
+
+Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
+        <translation type="unfinished">AVVERTIMENTO!!!
+
+L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto il tuo computer. Usalo solo se le prestazioni non sono importanti!</translation>
+    </message>
+</context>
+<context>
     <name>AsanaOAuth</name>
     <message>
         <location filename="../../ui/asana_OAuth.ui" line="20"/>
@@ -34,27 +321,27 @@
 <context>
     <name>ClockPosition</name>
     <message>
-        <location filename="../batman/ClockPosition.cpp" line="209"/>
-        <location filename="../batman/ClockPosition.cpp" line="294"/>
-        <location filename="../batman/ClockPosition.cpp" line="433"/>
-        <location filename="../batman/ClockPosition.cpp" line="448"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="209"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="294"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="433"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="448"/>
         <source>hour</source>
         <translation>ora</translation>
     </message>
     <message>
-        <location filename="../batman/ClockPosition.cpp" line="210"/>
-        <location filename="../batman/ClockPosition.cpp" line="295"/>
-        <location filename="../batman/ClockPosition.cpp" line="434"/>
-        <location filename="../batman/ClockPosition.cpp" line="449"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="210"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="295"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="434"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="449"/>
         <source>min</source>
         <translation>minuto</translation>
     </message>
     <message>
-        <location filename="../batman/ClockPosition.cpp" line="211"/>
-        <location filename="../batman/ClockPosition.cpp" line="296"/>
-        <location filename="../batman/ClockPosition.cpp" line="435"/>
-        <location filename="../batman/ClockPosition.cpp" line="450"/>
-        <location filename="../batman/ClockPosition.cpp" line="454"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="211"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="296"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="435"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="450"/>
+        <location filename="../../src/iris-automation/ClockPosition.cpp" line="454"/>
         <source>sec</source>
         <translation>secondo</translation>
     </message>
@@ -62,8 +349,8 @@
 <context>
     <name>Cyclops</name>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="269"/>
-        <location filename="../cyclops/Cyclops.cpp" line="283"/>
+        <location filename="../../src/cyclops/Cyclops.cpp" line="269"/>
+        <location filename="../../src/cyclops/Cyclops.cpp" line="283"/>
         <source>Restart your PC</source>
         <translation>Riavviare il PC</translation>
     </message>
@@ -72,32 +359,32 @@
         <translation type="vanished">Iris appena rimosso alcune limitazioni della scheda video. È necessario riavviare il PC una volta per sbloccare tutte le funzionalità.</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="271"/>
+        <location filename="../../src/cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
         <translation>Iris ha apportato una piccola modifica per abilitare valori più bassi. È necessario riavviare il PC una volta per sbloccare la piena funzionalità</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="273"/>
+        <location filename="../../src/cyclops/Cyclops.cpp" line="273"/>
         <source>Restart needed</source>
         <translation>Riavvio necessario</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="274"/>
+        <location filename="../../src/cyclops/Cyclops.cpp" line="274"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
         <translation>Riavviare il PC per sbloccare gamma colori. Iris mini funziona bene, ma alcune opzioni potrebbero essere ombreggiati.</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="284"/>
+        <location filename="../../src/cyclops/Cyclops.cpp" line="284"/>
         <source>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
         <translation>Alcune funzionalità sono limitate, perché è necessario riavviare il PC. Si utilizza di alto livello API di colore al momento.</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="337"/>
+        <location filename="../../src/cyclops/Cyclops.cpp" line="337"/>
         <source>Restart is needed</source>
         <translation>è necessario riavvio</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="338"/>
+        <location filename="../../src/cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
         <translation>Iris ha apportato alcune modifiche nel sistema ed è necessario riavviare per sbloccare tutte le funzionalità.
@@ -122,494 +409,522 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
 <context>
     <name>ExportSettings</name>
     <message>
-        <location filename="../wonder-woman/ExportSettings.cpp" line="36"/>
+        <location filename="../../src/settings/ExportSettings.cpp" line="36"/>
         <source>Save File...</source>
         <translation>Salvare il file...</translation>
     </message>
     <message>
-        <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
+        <location filename="../../src/settings/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
         <translation>Iris Settings File (*.iris_settings *.iris)</translation>
     </message>
 </context>
 <context>
+    <name>FreeTrialApp</name>
+    <message>
+        <location filename="../iris-licensing/FreeTrialApp.cpp" line="198"/>
+        <source>Activate </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/FreeTrialApp.cpp" line="198"/>
+        <source>Activation code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/FreeTrialApp.cpp" line="242"/>
+        <source>You need </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>HiddenFeatures</name>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="574"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="527"/>
+        <source>Color range is already expanded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="541"/>
+        <source>Expand color range Failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="619"/>
         <source>Invalid spell</source>
         <translation>Incantesimo non valido</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="575"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="620"/>
         <source>The spell</source>
         <translation>L&apos;incantesimo</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="577"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
         <translation>sembra sbagliato Controlla la sintassi o prova con qualche altra funzionalità nascosta.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="578"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
         <translation>Usa &quot;aiuto&quot; per vedere l&apos;elenco di tutte le funzionalità nascoste :)</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="598"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="649"/>
         <source>Hidden feature succeeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="601"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="652"/>
         <source>succeeded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="611"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="634"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="662"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="685"/>
         <source>Invalid temperature</source>
         <translation>Temperatura non valida</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="614"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="637"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="688"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
         <translation>è un valore non valido per la temperatura del colore. Usa il numero tra 0 e 10000.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="621"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="644"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="672"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>Temperature changed</source>
         <translation>Temperatura cambiata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="645"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="673"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="696"/>
         <source>Color temperature changed to</source>
         <translation>Temperatura del colore cambiata in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="657"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="680"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="708"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="731"/>
         <source>Invalid brightness</source>
         <translation>Luminosità non valida</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="660"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="711"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
         <translation>è un valore non valido per Luminosità. Usa il numero tra 10 e 100.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="667"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="690"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="718"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="741"/>
         <source>Brightness changed</source>
         <translation>La luminosità è cambiata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="668"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="691"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="719"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="742"/>
         <source>Brightness changed to</source>
         <translation>La luminosità è cambiata in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="720"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="772"/>
         <source>Gamma fixer disabled</source>
         <translation>Gamma fixer disabilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="773"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
         <translation>Gamma Fixer è disabilitato. Se lo schermo diventa improvvisamente luminoso, riattivalo nuovamente o fai più volte clic sull&apos;icona Iris mini. Entrambi dovrebbero forzare Iris a cambiare i colori dello schermo.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="726"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="778"/>
         <source>Gamma fixer enabled</source>
         <translation>Gamma fixer abilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="727"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
         <translation>Gamma fissatore è abilitato. Se si nota un leggero cambiamento di colore ogni secondo, disattivare nuovamente il fissatore Gamma. Viene utilizzato Gamma Fixer, poiché Windows decide di ignorare le mini modifiche di Iris di volta in volta.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="810"/>
         <source>Start at startup enabled</source>
         <translation>Inizia all&apos;avvio abilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="758"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="811"/>
         <source>Iris mini will start when you turn ON your computer</source>
         <translation>Iris mini verrà avviato all&apos;accensione del computer</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="763"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="816"/>
         <source>Start at startup disabled</source>
         <translation>Inizia all&apos;avvio disabilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="764"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="817"/>
         <source>Iris mini will not start when you turn ON your computer</source>
         <translation>Iris mini non si avvia quando si accende il computer</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="793"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="847"/>
         <source>Tray icon rotation is enabled</source>
         <translation>La rotazione dell&apos;icona del vassoio è abilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="794"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="848"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation>L&apos;icona del vassoio ruoterà quando Iris sta cambiando i colori dello schermo. Questo è usato per mostrare quando Iris mini sta cambiando i colori e lo schermo non è calibrato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="799"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="853"/>
         <source>Tray icon rotation is disabled</source>
         <translation>La rotazione dell&apos;icona del vassoio è disabilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="800"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="854"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation>L&apos;icona del vassoio non ruoterà quando Iris sta cambiando i colori dello schermo. Questa funzione viene utilizzata per mostrare quando Iris mini sta cambiando i colori e lo schermo non è calibrato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="811"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="865"/>
         <source>Manual temperature enabled</source>
         <translation>Temperatura manuale abilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="812"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="866"/>
         <source>You are now using Iris Mixed mode</source>
         <translation>Ora stai usando la modalità mista Iris</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="817"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="871"/>
         <source>Manual temperature disabled</source>
         <translation>Temperatura manuale disabilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="818"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="872"/>
         <source>Iris will use your selected mode for temperature again</source>
         <translation>Iris utilizzerà nuovamente la modalità selezionata per la temperatura</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="829"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
         <source>Manual brightness enabled</source>
         <translation>Luminosità manuale abilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="830"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
         <source>You are now using Iris mini Mixed mode</source>
         <translation>Ora stai usando &quot;Iris mini&quot; &quot;Modalità mista</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="835"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="889"/>
         <source>Manual brightness disabled</source>
         <translation>Luminosità manuale disabilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="890"/>
         <source>Iris mini will use your selected mode for brightness again</source>
         <translation>Iris mini utilizzerà nuovamente la modalità selezionata per la luminosità</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="848"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="902"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="910"/>
         <source>Monitor</source>
         <translation>Tenere sotto controllo</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="849"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="903"/>
         <source> disabled</source>
         <translation>Disabilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="850"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="904"/>
         <source>Iris will not apply color changes to Monitor</source>
         <translation>Iris non applicherà le modifiche del colore a Monitor</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="857"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="911"/>
         <source> enabled</source>
         <translation>abilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="858"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="912"/>
         <source>Iris will apply color changes to Monitor</source>
         <translation>Iris  applicherà le modifiche al colore per monitorare</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="869"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="923"/>
         <source>Reset colors</source>
         <translation>Ripristina colori</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="870"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="924"/>
         <source>Screen colors are reset to default values</source>
         <translation>I colori dello schermo vengono ripristinati ai valori predefiniti</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="880"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="934"/>
         <source>Reset settings</source>
         <translation>Ripristina le impostazioni</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="881"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="935"/>
         <source>Iris settings are reset to default values</source>
         <translation>Le impostazioni del diaframma vengono ripristinate ai valori predefiniti</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="891"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="945"/>
         <source>Invert</source>
         <translation>Invertire</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="892"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="946"/>
         <source>Colors are inverted</source>
         <translation>I colori sono invertiti</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="902"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="956"/>
         <source>Zero blue light</source>
         <translation>Zero luce blu</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="903"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="957"/>
         <source>All blue light is removed from the screen</source>
         <translation>Tutta la luce blu viene rimossa dallo schermo</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="914"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Gamma preservation enabled</source>
         <translation>Conservazione gamma attivata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="915"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
         <translation>D&apos;ora in poi Iris rispetterà la calibrazione del colore. Chiudi e avvia nuovamente Iris mini e manterrà i tuoi colori durante il giorno</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="920"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="974"/>
         <source>Gamma preservation disabled</source>
         <translation>Conservazione gamma disabilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="921"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="975"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
         <translation>Iris  non rispetterà la calibrazione del colore da ora in poi. Utilizzerà invece le impostazioni predefinite del monitor</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="931"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="985"/>
         <source>Notifications enabled</source>
         <translation>Notifiche abilitate</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="932"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="986"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
         <translation>Le notifiche di funzionalità nascoste sono abilitate. Sono mostrati così saprai quando la tua magia avrà successo</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="937"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="991"/>
         <source>Notifications disabled</source>
         <translation>Notifiche disabilitate</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="938"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="992"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
         <translation>Le notifiche delle funzioni nascoste sono disabilitate. Questa è l&apos;ultima notifica che vedrai</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="971"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1026"/>
         <source>Manual location enabled</source>
         <translation>Posizione manuale abilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="972"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1027"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
         <translation>Iris mini utilizzerà la posizione manuale. Imposta latitudine e longitudine con le funzioni nascoste</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="977"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1032"/>
         <source>Manual location disabled</source>
         <translation>Posizione manuale disabilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="978"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1033"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris mini utilizzerà la posizione automatica. La posizione viene utilizzata per calcolare la posizione del sole e la durata diurna e notturna</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="990"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1045"/>
         <source>Manual night duration enabled</source>
         <translation>Durata notturna manuale abilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="991"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1046"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
         <translation>Iris mini utilizzerà la durata notturna manuale. Imposta l&apos;ora di inizio e di fine con le funzioni nascoste</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="996"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1051"/>
         <source>Manual night duration disabled</source>
         <translation>Durata notturna manuale disabilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1052"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris mini utilizzerà la durata notturna automatica in base alla posizione. La posizione viene utilizzata per calcolare la posizione del sole e la durata diurna e notturna</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1008"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1063"/>
         <source>Invalid Night start time</source>
         <translation>Heure de début de nuit invalide</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1011"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1066"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
         <translation>è un valore non valido per l&apos;ora di inizio della notte. Usa il numero tra 0 e 24.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1018"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1073"/>
         <source>Night start time changed</source>
         <translation>Ora di inizio notte cambiata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1019"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1074"/>
         <source>Manual night start time changed to</source>
         <translation>Ora di inizio notte manuale modificata in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1031"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1086"/>
         <source>Invalid Night end time</source>
         <translation>Ora di fine notte non valida</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1034"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1089"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
         <translation>è un valore non valido per l&apos;ora di fine notte. Usa il numero tra 0 e 24.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1041"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1096"/>
         <source>Night end time changed</source>
         <translation>L&apos;ora di fine notte è cambiata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1042"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1097"/>
         <source>Manual night end time changed to</source>
         <translation>Ora di fine notte manuale modificata in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1053"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1108"/>
         <source>Latitude changed</source>
         <translation>Latitudine cambiata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1054"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1109"/>
         <source>Latitude changed to</source>
         <translation>Latitudine modificata in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1064"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1119"/>
         <source>Longitude changed</source>
         <translation>La longitudine è cambiata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1065"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1120"/>
         <source>Longitude changed to</source>
         <translation>Longitudine modificata in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1074"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1129"/>
         <source>Software cursor enabled</source>
         <translation>Cursore software abilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1075"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1130"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
         <translation>Le modifiche del colore si applicano anche al cursore. Se inizia a scomparire, usa disattivare il cursore software per renderlo nuovamente luminoso.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1083"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1138"/>
         <source>Hardware cursor enabled</source>
         <translation>Cursore hardware abilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1084"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1139"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
         <translation>Le modifiche del colore non si applicano al cursore. Se non ti piace il cursore blu brillante di notte usa il cursore software abilitato per applicare le modifiche al colore sul cursore.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1097"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1152"/>
         <source>Conflicting applications enabled</source>
         <translation>Applicazioni in conflitto abilitate</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1098"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1153"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
         <translation>Le applicazioni in conflitto sono abilitate. Ora puoi usare altri software che cambiano i colori dello schermo.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1103"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1158"/>
         <source>Conflicting applications disabled</source>
         <translation>Applicazioni in conflitto disabilitate</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1104"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1159"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
         <translation>Le applicazioni in conflitto sono disabilitate. Per non causare lo sfarfallio, le applicazioni in conflitto sono disabilitate.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1132"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1187"/>
         <source>Keyboard Hook enabled</source>
         <translation>Tastiera abilitataKeyboard Hook enabled</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1133"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1188"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
         <translation>Tastiera abilitata. Ora puoi utilizzare scorciatoie a livello di sistema.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1138"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1193"/>
         <source>Keyboard Hook disabled</source>
         <translation>Keyboard Hook disabilitato</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1139"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1194"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
         <translation>Keyboard Hook disabilitato. Alcune scorciatoie e funzionalità potrebbero non funzionare come previsto</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1151"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1206"/>
         <source>Trial Notification enabled</source>
         <translation>Notifica di prova abilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1152"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1207"/>
         <source>Iris will remind you when your trial expires</source>
         <translation>Iris ti ricorderà quando scade il periodo di prova</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1157"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1212"/>
         <source>Trial Notification disabled</source>
         <translation>Notifica di prova disabilitata</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1158"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1213"/>
         <source>Iris will no logner remind you when your trial expires</source>
         <translation>Iris non ti ricorderà più quando scade il periodo di prova</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1283"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1350"/>
         <source>Iris is switching to </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1284"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1351"/>
         <source>type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1285"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1352"/>
         <source>You will see the difference in your screen after a moment :)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -617,12 +932,12 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
 <context>
     <name>ImportSettings</name>
     <message>
-        <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
+        <location filename="../../src/settings/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
         <translation>Apri il file..</translation>
     </message>
     <message>
-        <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
+        <location filename="../../src/settings/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
         <translation>File delle impostazioni di Iris (* .iris_settings * .iris)</translation>
     </message>
@@ -630,10 +945,8 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
 <context>
     <name>License</name>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="159"/>
-        <location filename="../iris-licensing/License.cpp" line="246"/>
         <source>Your Iris is now Pro</source>
-        <translation>Il tuo Iris è ora Pro</translation>
+        <translation type="vanished">Il tuo Iris è ora Pro</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -642,143 +955,226 @@ See your new options in the advanced view.</source>
 Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="161"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation>Grazie mille per il supporto di Iris! :)</translation>
+        <translation type="vanished">Grazie mille per il supporto di Iris! :)</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="173"/>
-        <source>Iris is Pro</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../iris-licensing/License.cpp" line="174"/>
-        <source>Iris was already activated
-Thank you for supporting our work :)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../iris-licensing/License.cpp" line="183"/>
         <source>License Expired</source>
-        <translation>Licenza scaduta</translation>
+        <translation type="vanished">Licenza scaduta</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="184"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation>La tua licenza Iris Pro è scaduta. Puoi acquistare un nuovo codice di attivazione da</translation>
+        <translation type="vanished">La tua licenza Iris Pro è scaduta. Puoi acquistare un nuovo codice di attivazione da</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="196"/>
         <source>Already used</source>
-        <translation>Già usato</translation>
+        <translation type="vanished">Già usato</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="197"/>
         <source>You have already used this code on another machine</source>
-        <translation>Hai già utilizzato questo codice su un&apos;altra macchina</translation>
+        <translation type="vanished">Hai già utilizzato questo codice su un&apos;altra macchina</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="206"/>
         <source>Other version</source>
-        <translation>Altre versioni</translation>
+        <translation type="vanished">Altre versioni</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="207"/>
         <source>You have already used this code with other version of Iris. Download and use the old version again or buy new activation code.</source>
-        <translation>Hai già utilizzato questo codice con altra versione di Iris. Scaricare e usare ancora la vecchia versione o comprare nuovo codice di attivazione.</translation>
+        <translation type="vanished">Hai già utilizzato questo codice con altra versione di Iris. Scaricare e usare ancora la vecchia versione o comprare nuovo codice di attivazione.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="216"/>
         <source>No such code</source>
-        <translation>No tale codice</translation>
+        <translation type="vanished">No tale codice</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="217"/>
         <source>There is no such activation code</source>
-        <translation>Non esiste codice di attivazione</translation>
+        <translation type="vanished">Non esiste codice di attivazione</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="226"/>
         <source>No giveaway</source>
-        <translation>No giveaway</translation>
+        <translation type="vanished">No giveaway</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="227"/>
         <source>There is no active giveaway right now</source>
-        <translation>Non v&apos;è alcun giveaway attiva in questo momento</translation>
+        <translation type="vanished">Non v&apos;è alcun giveaway attiva in questo momento</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="236"/>
         <source>This code is for Iris mini</source>
-        <translation>Questo codice è per Iris mini</translation>
+        <translation type="vanished">Questo codice è per Iris mini</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="237"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Si tratta di Iris e il tuo codice di attivazione è per Iris mini. Scarica Iris mini da
+        <translation type="vanished">Si tratta di Iris e il tuo codice di attivazione è per Iris mini. Scarica Iris mini da
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="248"/>
-        <location filename="../iris-licensing/License.cpp" line="250"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>attivazione della licenza squadra. La ringrazio molto per il sostegno Iris! :)
+        <translation type="vanished">attivazione della licenza squadra. La ringrazio molto per il sostegno Iris! :)
 Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="262"/>
         <source>Team license code for Iris mini</source>
-        <translation>codice di licenza della squadra per Iris mini</translation>
+        <translation type="vanished">codice di licenza della squadra per Iris mini</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="263"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Si tratta di Iris e codici di licenza squadra rimanenti sono per Iris mini. Scarica Iris mini da
+        <translation type="vanished">Si tratta di Iris e codici di licenza squadra rimanenti sono per Iris mini. Scarica Iris mini da
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="272"/>
         <source>No more Team activations</source>
-        <translation>Nessun altro attivazioni team</translation>
+        <translation type="vanished">Nessun altro attivazioni team</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="273"/>
         <source>You have used all your Team license activations.</source>
-        <translation>Hai utilizzato tutti i attivazioni di licenza Team.</translation>
+        <translation type="vanished">Hai utilizzato tutti i attivazioni di licenza Team.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="282"/>
         <source>No such Team license</source>
-        <translation>Nessun tale licenza squadra</translation>
+        <translation type="vanished">Nessun tale licenza squadra</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="283"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation>Non esiste una licenza della squadra per Iris Iris o mini.</translation>
+        <translation type="vanished">Non esiste una licenza della squadra per Iris Iris o mini.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="292"/>
         <source>Iris offline activation</source>
-        <translation>Attivazione non in linea Iris</translation>
+        <translation type="vanished">Attivazione non in linea Iris</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="294"/>
-        <location filename="../iris-licensing/License.cpp" line="296"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>Il tuo Iris è ora Pro. Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
+        <translation type="vanished">Il tuo Iris è ora Pro. Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="308"/>
         <source>Invalid response</source>
-        <translation>Risposta non valida</translation>
+        <translation type="vanished">Risposta non valida</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/License.cpp" line="311"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation>. Forse non si è connessi a Internet?</translation>
+        <translation type="vanished">. Forse non si è connessi a Internet?</translation>
+    </message>
+</context>
+<context>
+    <name>LicenseChecker</name>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="157"/>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="186"/>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="248"/>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="296"/>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="298"/>
+        <source>Your </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="160"/>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="162"/>
+        <source>Thank you very much for supporting </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="185"/>
+        <source>License Expired</source>
+        <translation type="unfinished">Licenza scaduta</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="198"/>
+        <source>Already used</source>
+        <translation type="unfinished">Già usato</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="199"/>
+        <source>You have already used this code on another machine</source>
+        <translation type="unfinished">Hai già utilizzato questo codice su un&apos;altra macchina</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="208"/>
+        <source>Other version</source>
+        <translation type="unfinished">Altre versioni</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="209"/>
+        <source>You have already used this code with other version of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="218"/>
+        <source>No such code</source>
+        <translation type="unfinished">No tale codice</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="219"/>
+        <source>There is no such activation code</source>
+        <translation type="unfinished">Non esiste codice di attivazione</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="228"/>
+        <source>No giveaway</source>
+        <translation type="unfinished">No giveaway</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="229"/>
+        <source>There is no active giveaway right now</source>
+        <translation type="unfinished">Non v&apos;è alcun giveaway attiva in questo momento</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="238"/>
+        <source>This code is for Iris mini</source>
+        <translation type="unfinished">Questo codice è per Iris mini</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="239"/>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="265"/>
+        <source>This is </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="250"/>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="252"/>
+        <source>Team license activation. Thank you very much for supporting </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="264"/>
+        <source>Team license code for </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="274"/>
+        <source>No more Team activations</source>
+        <translation type="unfinished">Nessun altro attivazioni team</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="275"/>
+        <source>You have used all your Team license activations.</source>
+        <translation type="unfinished">Hai utilizzato tutti i attivazioni di licenza Team.</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="284"/>
+        <source>No such Team license</source>
+        <translation type="unfinished">Nessun tale licenza squadra</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="285"/>
+        <source>There is no such Team license.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="294"/>
+        <source>Iris offline activation</source>
+        <translation type="unfinished">Attivazione non in linea Iris</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="310"/>
+        <source>Invalid response</source>
+        <translation type="unfinished">Risposta non valida</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/LicenseChecker.cpp" line="313"/>
+        <source>. Maybe you are not connected to the internet?</source>
+        <translation type="unfinished">. Forse non si è connessi a Internet?</translation>
     </message>
 </context>
 <context>
@@ -826,286 +1222,170 @@ http://iristech.co/iris-mini</translation>
         <translation type="vanished">lavoro</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="826"/>
         <source>Expired</source>
-        <translation>Scaduto</translation>
+        <translation type="vanished">Scaduto</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="830"/>
         <source>Paused</source>
-        <translation>In pausa</translation>
+        <translation type="vanished">In pausa</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1026"/>
-        <location filename="../../src/MainWindow.cpp" line="1251"/>
-        <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1029"/>
-        <source>Detected current Clock time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1031"/>
-        <source>Local time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1033"/>
-        <source>UTC time</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1072"/>
-        <location filename="../../src/MainWindow.cpp" line="1182"/>
         <source>Day start time</source>
-        <translation>Giorno di inizio del giorno</translation>
+        <translation type="vanished">Giorno di inizio del giorno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1074"/>
-        <location filename="../../src/MainWindow.cpp" line="1184"/>
         <source>Day transition start time</source>
-        <translation>Ora di inizio della transizione giornaliera</translation>
+        <translation type="vanished">Ora di inizio della transizione giornaliera</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1076"/>
-        <location filename="../../src/MainWindow.cpp" line="1186"/>
         <source>Day transition end time</source>
-        <translation>Termine di transizione giornaliero</translation>
+        <translation type="vanished">Termine di transizione giornaliero</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1078"/>
-        <location filename="../../src/MainWindow.cpp" line="1188"/>
         <source>Day end time</source>
-        <translation>L&apos;ora di fine giornata</translation>
+        <translation type="vanished">L&apos;ora di fine giornata</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1083"/>
-        <location filename="../../src/MainWindow.cpp" line="1193"/>
         <source>Night start time</source>
-        <translation>Ora di inizio notturno</translation>
+        <translation type="vanished">Ora di inizio notturno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1085"/>
-        <location filename="../../src/MainWindow.cpp" line="1195"/>
         <source>Night transition start time</source>
-        <translation>Ora di inizio della transizione notturna</translation>
+        <translation type="vanished">Ora di inizio della transizione notturna</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1087"/>
-        <location filename="../../src/MainWindow.cpp" line="1197"/>
         <source>Night transition end time</source>
-        <translation>Termine di transizione della notte</translation>
+        <translation type="vanished">Termine di transizione della notte</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1089"/>
-        <location filename="../../src/MainWindow.cpp" line="1199"/>
         <source>Night end time</source>
-        <translation>Tempo di fine notte</translation>
+        <translation type="vanished">Tempo di fine notte</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1094"/>
-        <location filename="../../src/MainWindow.cpp" line="1204"/>
         <source>Bedtime</source>
-        <translation>Bedtime</translation>
+        <translation type="vanished">Bedtime</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1096"/>
-        <location filename="../../src/MainWindow.cpp" line="1206"/>
         <source>Bedtime transition start time</source>
-        <translation>Ora di inizio della transizione di base</translation>
+        <translation type="vanished">Ora di inizio della transizione di base</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1098"/>
-        <location filename="../../src/MainWindow.cpp" line="1208"/>
         <source>Bedtime transition end time</source>
-        <translation>Tempo di fine transizione di base</translation>
+        <translation type="vanished">Tempo di fine transizione di base</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1100"/>
-        <location filename="../../src/MainWindow.cpp" line="1210"/>
         <source>Bedtime end time</source>
-        <translation>Orario di fine soggiorno</translation>
+        <translation type="vanished">Orario di fine soggiorno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1105"/>
-        <location filename="../../src/MainWindow.cpp" line="1215"/>
         <source>Wake time</source>
-        <translation>Tempo di risveglio</translation>
+        <translation type="vanished">Tempo di risveglio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1107"/>
-        <location filename="../../src/MainWindow.cpp" line="1217"/>
         <source>Wake time transition start time</source>
-        <translation>Ora di inizio della transizione del tempo di risveglio</translation>
+        <translation type="vanished">Ora di inizio della transizione del tempo di risveglio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1109"/>
-        <location filename="../../src/MainWindow.cpp" line="1219"/>
         <source>Wake time transition end time</source>
-        <translation>Termine di transizione del tempo di risveglio</translation>
+        <translation type="vanished">Termine di transizione del tempo di risveglio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1111"/>
-        <location filename="../../src/MainWindow.cpp" line="1221"/>
         <source>Wake time end time</source>
-        <translation>Termine di sveglia</translation>
+        <translation type="vanished">Termine di sveglia</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1116"/>
-        <location filename="../../src/MainWindow.cpp" line="1226"/>
         <source>Day duration</source>
-        <translation>Durata giornaliera</translation>
+        <translation type="vanished">Durata giornaliera</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1118"/>
-        <location filename="../../src/MainWindow.cpp" line="1228"/>
         <source>Day transition duration</source>
-        <translation>Durata della transizione giornaliera</translation>
+        <translation type="vanished">Durata della transizione giornaliera</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1120"/>
-        <location filename="../../src/MainWindow.cpp" line="1230"/>
         <source>Night duration</source>
-        <translation>Durata notturna</translation>
+        <translation type="vanished">Durata notturna</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1122"/>
-        <location filename="../../src/MainWindow.cpp" line="1232"/>
         <source>Night transition duration</source>
-        <translation>Durata della transizione notturna</translation>
+        <translation type="vanished">Durata della transizione notturna</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1124"/>
-        <location filename="../../src/MainWindow.cpp" line="1234"/>
         <source>Sleep duration</source>
-        <translation>Durata del sonno</translation>
+        <translation type="vanished">Durata del sonno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1126"/>
-        <location filename="../../src/MainWindow.cpp" line="1236"/>
         <source>Sleep transition duration</source>
-        <translation>Durata della transizione sonno</translation>
+        <translation type="vanished">Durata della transizione sonno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1132"/>
         <source>Time zone</source>
-        <translation>Fuso orario</translation>
+        <translation type="vanished">Fuso orario</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1134"/>
         <source>Custom Time zone offset</source>
-        <translation>Offset del fuso orario personalizzato</translation>
+        <translation type="vanished">Offset del fuso orario personalizzato</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1139"/>
         <source>Sunrise time</source>
-        <translation>Tempo di alba</translation>
+        <translation type="vanished">Tempo di alba</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1141"/>
         <source>Sunset time</source>
-        <translation>Tempo di tramonto</translation>
+        <translation type="vanished">Tempo di tramonto</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1146"/>
         <source>New moon offset</source>
-        <translation>Nuova luna offset</translation>
+        <translation type="vanished">Nuova luna offset</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1148"/>
         <source>Full moon offset</source>
-        <translation>Offset di luna piena</translation>
+        <translation type="vanished">Offset di luna piena</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1150"/>
         <source>Current moon offset</source>
-        <translation>Correzione della luna corrente</translation>
+        <translation type="vanished">Correzione della luna corrente</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1242"/>
-        <source>Latitude</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1244"/>
-        <source>Longitude</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1246"/>
-        <source>Use Automatic Location</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1248"/>
-        <source>Use Manual Night Duration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1261"/>
-        <source>Yes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1265"/>
-        <source>No</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/MainWindow.cpp" line="1788"/>
         <source>Iris Pro needed</source>
-        <translation>Iris Pro necessaria</translation>
+        <translation type="vanished">Iris Pro necessaria</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1789"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation>È necessario Iris Pro per accedere a questa sezione.</translation>
+        <translation type="vanished">È necessario Iris Pro per accedere a questa sezione.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2390"/>
         <source>Relaunch Iris</source>
-        <translation>Rilanciare Iris</translation>
+        <translation type="vanished">Rilanciare Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2391"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation>È necessario rilanciare Iris per le modifiche abbiano effetto.</translation>
+        <translation type="vanished">È necessario rilanciare Iris per le modifiche abbiano effetto.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2393"/>
         <source>Relaunch now</source>
-        <translation>Rilanciare ora</translation>
+        <translation type="vanished">Rilanciare ora</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2394"/>
         <source>Later</source>
-        <translation>Dopo</translation>
+        <translation type="vanished">Dopo</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2410"/>
-        <location filename="../../src/MainWindow.cpp" line="2475"/>
         <source>Restart is needed</source>
-        <translation>è necessario riavvio</translation>
+        <translation type="vanished">è necessario riavvio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2411"/>
-        <location filename="../../src/MainWindow.cpp" line="2475"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>Iris ha apportato alcune modifiche nel sistema e riavviare è necessario per rendere effettive le modifiche.</translation>
+        <translation type="vanished">Iris ha apportato alcune modifiche nel sistema e riavviare è necessario per rendere effettive le modifiche.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="4002"/>
         <source>WARNING!!!</source>
-        <translation>AVVERTIMENTO!!!</translation>
+        <translation type="vanished">AVVERTIMENTO!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="4003"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation>AVVERTIMENTO!!!
+        <translation type="vanished">AVVERTIMENTO!!!
 
 L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto il tuo computer. Usalo solo se le prestazioni non sono importanti!</translation>
     </message>
@@ -1218,17 +1498,17 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <translation>Salta</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
+        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="65"/>
         <source>Rest screen</source>
         <translation>Schermo di riposo</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
+        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="123"/>
         <source>Continue</source>
         <translation>Continua</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="134"/>
+        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="137"/>
         <source>Remaining</source>
         <translation>Rimanente</translation>
     </message>
@@ -1279,12 +1559,12 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <translation type="unfinished">riposo</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="487"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="488"/>
         <source>Big rest incoming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="502"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="503"/>
         <source>work</source>
         <translation type="unfinished">lavoro</translation>
     </message>
@@ -1292,33 +1572,33 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
 <context>
     <name>SolarPosition</name>
     <message>
-        <location filename="../batman/SolarPosition.cpp" line="436"/>
-        <location filename="../batman/SolarPosition.cpp" line="537"/>
-        <location filename="../batman/SolarPosition.cpp" line="676"/>
-        <location filename="../batman/SolarPosition.cpp" line="735"/>
-        <location filename="../batman/SolarPosition.cpp" line="753"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="436"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="537"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="676"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="735"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="753"/>
         <source>hour</source>
         <translation>ora</translation>
     </message>
     <message>
-        <location filename="../batman/SolarPosition.cpp" line="437"/>
-        <location filename="../batman/SolarPosition.cpp" line="538"/>
-        <location filename="../batman/SolarPosition.cpp" line="677"/>
-        <location filename="../batman/SolarPosition.cpp" line="736"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="437"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="538"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="677"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="736"/>
         <source>min</source>
         <translation>minuti</translation>
     </message>
     <message>
-        <location filename="../batman/SolarPosition.cpp" line="438"/>
-        <location filename="../batman/SolarPosition.cpp" line="539"/>
-        <location filename="../batman/SolarPosition.cpp" line="678"/>
-        <location filename="../batman/SolarPosition.cpp" line="737"/>
-        <location filename="../batman/SolarPosition.cpp" line="741"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="438"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="539"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="678"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="737"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="741"/>
         <source>sec</source>
         <translation>secondo</translation>
     </message>
     <message>
-        <location filename="../batman/SolarPosition.cpp" line="757"/>
+        <location filename="../../src/iris-automation/SolarPosition.cpp" line="757"/>
         <source>hours</source>
         <translation>ore</translation>
     </message>
@@ -1326,12 +1606,12 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
 <context>
     <name>TaskbarButton</name>
     <message>
-        <location filename="../../ui/components/TaskbarButton.cpp" line="192"/>
+        <location filename="../../ui/components/TaskbarButton.cpp" line="195"/>
         <source> until rest</source>
         <translation>fino riposo</translation>
     </message>
     <message>
-        <location filename="../../ui/components/TaskbarButton.cpp" line="206"/>
+        <location filename="../../ui/components/TaskbarButton.cpp" line="209"/>
         <source> until work</source>
         <translation>fino lavorare</translation>
     </message>
@@ -2789,134 +3069,134 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="75"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="657"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="85"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="668"/>
         <source>Settings</source>
         <translation>Impostazioni</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="84"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="661"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="94"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="672"/>
         <source>&amp;Automatic</source>
         <translation>Automatico</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="88"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="662"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="98"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="673"/>
         <source>&amp;Manual</source>
         <translation>Manuale</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="92"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="663"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="102"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="674"/>
         <source>&amp;Paused</source>
         <translation>In pausa</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="96"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="659"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="106"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="670"/>
         <source>&amp;Change mode</source>
         <translation>Cambiare modalità</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="122"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="686"/>
         <source>&amp;Custom</source>
         <translation>Costume</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="665"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="126"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="676"/>
         <source>&amp;Health</source>
         <translation>Salute</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="120"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="666"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="130"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="677"/>
         <source>&amp;Sleep</source>
         <translation>Dormire</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="134"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="678"/>
         <source>&amp;Gaming</source>
         <translation>Gioco</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="668"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="138"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="679"/>
         <source>&amp;Reading</source>
         <translation>Lettura</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="132"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="669"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="142"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="680"/>
         <source>&amp;Programming</source>
         <translation>Programmazione</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="136"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="670"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="146"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="681"/>
         <source>&amp;Biohacker</source>
         <translation>Biohacker</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="140"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="671"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="150"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="682"/>
         <source>&amp;Sunglasses</source>
         <translation>Occhiali da sole</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="144"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="672"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="154"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="683"/>
         <source>&amp;Dark</source>
         <translation>Buio</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="148"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="673"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="158"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="684"/>
         <source>&amp;Movie</source>
         <translation>Film</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="152"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="674"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="162"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="685"/>
         <source>&amp;Overlay</source>
         <translation>Copertura</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="214"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="682"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="224"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="693"/>
         <source>Exit</source>
         <translation>Uscita</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="216"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="684"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="226"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="695"/>
         <source>Quit</source>
         <translation>Smettere</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="270"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="660"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="282"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="671"/>
         <source>Mode</source>
         <translation>Modalità</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="279"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="677"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="291"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="688"/>
         <source>Color pausers</source>
         <translation>Pausa di colore</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="280"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="678"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="292"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="689"/>
         <source>Timer pausers</source>
         <translation>Pausa temporizzatore</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="281"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="679"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="293"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="690"/>
         <source>Mouse pausers</source>
         <translation>Pausa del mouse</translation>
     </message>
@@ -2924,136 +3204,198 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
 <context>
     <name>Trial</name>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="141"/>
         <source>Expires in</source>
-        <translation>Scade tra</translation>
+        <translation type="vanished">Scade tra</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="149"/>
         <source>days</source>
-        <translation>giorni</translation>
+        <translation type="vanished">giorni</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="154"/>
         <source>day</source>
-        <translation>giorno</translation>
+        <translation type="vanished">giorno</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="160"/>
         <source>hours</source>
-        <translation>ore</translation>
+        <translation type="vanished">ore</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="165"/>
         <source>hour</source>
-        <translation>ora</translation>
+        <translation type="vanished">ora</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="171"/>
         <source>minutes</source>
-        <translation>minuti</translation>
+        <translation type="vanished">minuti</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="176"/>
         <source>minute</source>
-        <translation>minuto</translation>
+        <translation type="vanished">minuto</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="180"/>
         <source>Expired</source>
-        <translation>Scaduto</translation>
+        <translation type="vanished">Scaduto</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="200"/>
         <source>Trial Expired</source>
-        <translation>Prova scaduta</translation>
+        <translation type="vanished">Prova scaduta</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="201"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation>Il tuo periodo di prova per Iris Pro è scaduto</translation>
+        <translation type="vanished">Il tuo periodo di prova per Iris Pro è scaduto</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="203"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation>Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
+        <translation type="vanished">Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="205"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation>Invita amici o acquista la licenza</translation>
+        <translation type="vanished">Invita amici o acquista la licenza</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="212"/>
         <source>Already used</source>
-        <translation>Già usato</translation>
+        <translation type="vanished">Già usato</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="213"/>
         <source>Iris Pro Trial already used.</source>
-        <translation>Iris Pro Trial già utilizzato.</translation>
+        <translation type="vanished">Iris Pro Trial già utilizzato.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="216"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation>Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
+        <translation type="vanished">Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="218"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation>Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
+        <translation type="vanished">Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="226"/>
         <source>Free trial Disabled</source>
-        <translation>Prova gratuita disabilitata</translation>
+        <translation type="vanished">Prova gratuita disabilitata</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/Trial.cpp" line="227"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation>La prova gratuita di Iris è attualmente disabilitata</translation>
+        <translation type="vanished">La prova gratuita di Iris è attualmente disabilitata</translation>
+    </message>
+</context>
+<context>
+    <name>TrialChecker</name>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="154"/>
+        <source>Expires in</source>
+        <translation type="unfinished">Scade tra</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="162"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="316"/>
+        <source>days</source>
+        <translation type="unfinished">giorni</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="167"/>
+        <source>day</source>
+        <translation type="unfinished">giorno</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="173"/>
+        <source>hours</source>
+        <translation type="unfinished">ore</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="178"/>
+        <source>hour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="184"/>
+        <source>minutes</source>
+        <translation type="unfinished">minuti</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="189"/>
+        <source>minute</source>
+        <translation type="unfinished">minuto</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="193"/>
+        <source>Expired</source>
+        <translation type="unfinished">Scaduto</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="213"/>
+        <source>Trial Expired</source>
+        <translation type="unfinished">Prova scaduta</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="214"/>
+        <source>Your </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="216"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="298"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="307"/>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="318"/>
+        <source>If you like the program and want to use it more you can</source>
+        <translation type="unfinished">Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="225"/>
+        <source>Already used</source>
+        <translation type="unfinished">Già usato</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="229"/>
+        <source>It seems you have already used your free trial on this machine.</source>
+        <translation type="unfinished">Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="239"/>
+        <source>Free trial Disabled</source>
+        <translation type="unfinished">Prova gratuita disabilitata</translation>
+    </message>
+    <message>
+        <location filename="../iris-licensing/TrialChecker.cpp" line="293"/>
+        <source>Trial expires soon</source>
+        <translation type="unfinished">La prova scade presto</translation>
+    </message>
+</context>
+<context>
+    <name>Utils</name>
+    <message>
+        <location filename="../../src/utils/Utils.cpp" line="93"/>
+        <location filename="../../src/utils/Utils.cpp" line="141"/>
+        <source>CLICK TO COPY THE TEXT TO CLIPBOARD</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ViralComponent</name>
     <message>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation>La prova scade presto</translation>
+        <translation type="vanished">La prova scade presto</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation>Iris Pro Trial expire aujourd&apos;hui</translation>
+        <translation type="vanished">Iris Pro Trial expire aujourd&apos;hui</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="31"/>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="40"/>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="51"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation>Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
+        <translation type="vanished">Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="33"/>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="42"/>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="53"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation>Invita amici o acquista una licenza permanente</translation>
+        <translation type="vanished">Invita amici o acquista una licenza permanente</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation>Iris Pro Trial scade domani</translation>
+        <translation type="vanished">Iris Pro Trial scade domani</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation>Iris Pro Trial scade a</translation>
+        <translation type="vanished">Iris Pro Trial scade a</translation>
     </message>
     <message>
-        <location filename="../iris-licensing/ViralComponent.cpp" line="49"/>
         <source>days</source>
-        <translation>giorni</translation>
+        <translation type="vanished">giorni</translation>
     </message>
 </context>
 <context>
